@@ -43,3 +43,7 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 26. "Someone watching a video is being entertained. Someone reading slides is processing information." — same
 27. "views and conversions are two different games" — same
 28. "Traditional advertising CPM rates can't compete with this" — Forbes attribution as Aleksa Ibrahimovic / Cliptic.co — https://www.forbes.com/sites/boazsobrado/2026/02/11/inside-the-clipping-farms-driving-fintechs-marketing-boom/ (2026-02-11)
+
+## Exact quotes — recent incremental
+29. "I get these types of questions a lot and yes, clipping is better than YouTube monetisation in almost every way" — https://x.com/aleksascales/status/2097796436414861406 (2026-09-09)
+30. "Instead of grinding for a $0.10 CPM and hoping your page doesn't get banned for something you didn't even do, you take that exact same skill and point it at clipping" — same
