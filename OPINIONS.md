@@ -32,6 +32,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Public claims: 1B+ views, ~70k–75k creators in network, campaigns for large brands; founded Cliptic (@thecliptic / cliptic.co). Website lists him as Aleksa Ibrahimovic (CEO); X display Aleksa / Aleksa Scales.
 
 ## Money / career framing
+- **Clipping > YouTube monetisation** "in almost every way": same editing/distribution skill pointed at clipping beats grinding a ~$0.10 YouTube CPM while hoping the page doesn't get banned for something you didn't even do.
 - Clipping as broke-friendly business: paid from day 1 while learning **attention conversion**.
 - Young advantage = cheap failures; he frames six months at −$100 as best decision.
 - Marketing > building for apps in 2026; customers are on social FYPs not "tech X."
