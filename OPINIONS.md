@@ -31,6 +31,10 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Pay on results; verify against botted views; review submissions (ops is brutal).
 - Public claims: 1B+ views, ~70k–75k creators in network, campaigns for large brands; founded Cliptic (@thecliptic / cliptic.co). Website lists him as Aleksa Ibrahimovic (CEO); X display Aleksa / Aleksa Scales.
 
+## Attention / culture placement
+- Attention literacy beats traditional media budgets: if someone at the company will pay ~$15k to place the brand where culture is actually looking (even absurd placements), promote them — they understand attention better than billboard approvers.
+- **Brands acting like kids** is how you get seen now; to stay on top, follow whatever is moving right (trend-chasing as distribution, not dignity theater).
+
 ## Money / career framing
 - **Clipping > YouTube monetisation** "in almost every way": same editing/distribution skill pointed at clipping beats grinding a ~$0.10 YouTube CPM while hoping the page doesn't get banned for something you didn't even do.
 - Clipping as broke-friendly business: paid from day 1 while learning **attention conversion**.
