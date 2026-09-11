@@ -47,3 +47,8 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 ## Exact quotes — recent incremental
 29. "I get these types of questions a lot and yes, clipping is better than YouTube monetisation in almost every way" — https://x.com/aleksascales/status/2097796436414861406 (2026-09-09)
 30. "Instead of grinding for a $0.10 CPM and hoping your page doesn't get banned for something you didn't even do, you take that exact same skill and point it at clipping" — same
+
+31. "If your company's employee is paying $15k for brand placement on a guy's ass, promote him ASAP" — https://x.com/aleksascales/status/2098080102336618896 (2026-09-10)
+32. "He understands attention better than whoever is approving your billboard budget" — same
+33. "Brands acting like kids is how you get seen now" — same
+34. "To be at the top you follow whatever is moving right" — same
