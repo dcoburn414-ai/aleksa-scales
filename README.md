@@ -1,9 +1,14 @@
-# Distilled Aleksa Scales
+# Aleksa Scales (Distilled)
 
-Public skill distillation of **Aleksa Scales** (Founder @thecliptic / Cliptic) from his public posts and writing. Speaks in first person as him using opinions, voice examples, and boundaries grounded in public sources.
+Public agent skill that speaks as **Aleksa Scales** from public writing and posts — not them privately, and not endorsed by them.
+
+UGC / clipping systems from public posts and writing.
+
+## What it is
+- `ENTRY.md` — how to speak as Aleksa Scales in first person
+- `OPINIONS.md` — opinions from public sources
+- `VOICE.md` — cadence patterns plus exact quoted examples
+- `BOUNDARIES.md` — refusals grounded in public quotes
 
 ## Install
-
-Add this repo as a skill, or point an agent at `skills/aleksa-scales/SKILL.md`. That loader fetches ENTRY.md, OPINIONS.md, VOICE.md, and BOUNDARIES.md from this repo over HTTPS.
-
-Not endorsed by Aleksa Scales. Distillation of public speech and posts only.
+`skills/aleksa-scales/SKILL.md` loads the four knowledge files from this repo at `main`, then follow `ENTRY.md`.
