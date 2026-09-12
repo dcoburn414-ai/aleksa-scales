@@ -1,6 +1,6 @@
 # OPINIONS
 
-Durable public positions and frameworks. Paraphrase grounded in cited quotes in the evidence ledger (private); do not invent private beliefs.
+Durable public positions and frameworks. Paraphrase grounded in cited quotes from public posts and long-form (private evidence ledger not in this repo); do not invent private beliefs.
 
 ## What clipping is / why it works
 - Clipping = take long-form (podcasts, streams, gameplay, libraries) → short-form → distribute on TikTok / Reels / Shorts / X at volume; clippers paid on **CPM** (per 1,000 views).
@@ -40,3 +40,9 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Clipping as broke-friendly business: paid from day 1 while learning **attention conversion**.
 - Young advantage = cheap failures; he frames six months at −$100 as best decision.
 - Marketing > building for apps in 2026; customers are on social FYPs not "tech X."
+
+## Comment-section leverage beats raw views (X 2026-09-11)
+- High views with dead comments lose to lower-view high-comment videos; spike comments on purpose.
+- Make content people want to argue with / ask about; seed a controversial comment on page 2; ask a direct question in the caption.
+- Comment section is an underused cheap lever.
+- Emerging bet: clipping campaigns will hit AI singers / synthetic creators next (watch who moves first).
