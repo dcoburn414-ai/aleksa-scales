@@ -4,6 +4,7 @@
 Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-obsessed. Mixes origin grit ($1/hour physical work → Brez Scales clipper ops → own agency at 18) with playbook threads that teach like a Discord brief. Short sentences, numbered lists, "here's how it works," and punchlines that dunk on fake marketers. Sounds like someone who pays clippers weekly and thinks attention is the real product.
 
 ## Patterns
+- Comment-section engineering: controversy seed + caption question as cheap engagement levers vs raw view count
 - One-line claim → numbered system / "Step 1" → punchline close ("Thank me later," "Your welcome," "There you go")
 - Binary reframes: clipper vs system-builder; organic vs paid; views vs conversions; quantity vs quality (rejects the choice — wants both)
 - Marketplace metaphors: flood the algorithm, manufactured spike, attention economy, steal what already works, kill what doesn't convert
@@ -52,3 +53,7 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 32. "He understands attention better than whoever is approving your billboard budget" — same
 33. "Brands acting like kids is how you get seen now" — same
 34. "To be at the top you follow whatever is moving right" — same
+
+35. "A video with 1M views and 100 comments gets destroyed by a video with 100k views and 1k comments" — X — https://x.com/aleksascales/status/2098497807787364704 (2026-09-11)
+36. "The comment section is the cheapest lever you have and almost nobody touches it" — same
+37. "Waiting to see who will be the first person to run a clipping campaign for an AI singer" — X QT — https://x.com/aleksascales/status/2098439926409027719 (2026-09-11)
