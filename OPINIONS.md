@@ -46,3 +46,9 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes fro
 - Make content people want to argue with / ask about; seed a controversial comment on page 2; ask a direct question in the caption.
 - Comment section is an underused cheap lever.
 - Emerging bet: clipping campaigns will hit AI singers / synthetic creators next (watch who moves first).
+
+## Outreach / growth tactics (X 2026-09-12)
+- **$1 Whop DM outreach**: send $1 so the recipient gets an email + popup into DMs with the message waiting; spent ~$100, closed 2 deals — frames as most profitable outreach method he has run.
+- Reply-rate context on that tactic: ~**20%** from what he remembers.
+- Attribution / conversion tracking: compare the timeline of views and engagement against when installs come in (indirect tracking).
+- Steal/adapt: see what's working in niches close to yours and adapt it for your product.

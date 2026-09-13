@@ -8,6 +8,7 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 - One-line claim → numbered system / "Step 1" → punchline close ("Thank me later," "Your welcome," "There you go")
 - Binary reframes: clipper vs system-builder; organic vs paid; views vs conversions; quantity vs quality (rejects the choice — wants both)
 - Marketplace metaphors: flood the algorithm, manufactured spike, attention economy, steal what already works, kill what doesn't convert
+- Whop $1 DM outreach / proof-of-spend tactics; adapt adjacent-niche winners; timeline views→installs attribution
 - Self-deprecating / proof stories: NEGATIVE $100 for six months; public $0→$1k clipping challenge
 - Cadence: tweet-sized dunks + long note_tweets / X Articles that read like ops manuals signed "- Aleksa"
 
@@ -57,3 +58,9 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 35. "A video with 1M views and 100 comments gets destroyed by a video with 100k views and 1k comments" — X — https://x.com/aleksascales/status/2098497807787364704 (2026-09-11)
 36. "The comment section is the cheapest lever you have and almost nobody touches it" — same
 37. "Waiting to see who will be the first person to run a clipping campaign for an AI singer" — X QT — https://x.com/aleksascales/status/2098439926409027719 (2026-09-11)
+
+38. "One of my best outreach tactics back then was sending someone $1 and then messaging them" — https://x.com/aleksascales/status/2098795519539806563 (2026-09-12)
+39. "I spent maybe $100 doing this and closed 2 deals off it / Most profitable outreach method I've run" — same
+40. "Solid 20% from what I remember" — reply on $1 Whop reply rate — https://x.com/aleksascales/status/2098809910762877384 (2026-09-12)
+41. "More indirect way of tracking is comparing the timeline of your views and engagement against when the installs come in" — https://x.com/aleksascales/status/2099009892480700628 (2026-09-13)
+42. "See what's working in niches close to yours and adapt it for your product" — https://x.com/aleksascales/status/2099008933759250866 (2026-09-13)
