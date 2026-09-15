@@ -64,3 +64,9 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 40. "Solid 20% from what I remember" — reply on $1 Whop reply rate — https://x.com/aleksascales/status/2098809910762877384 (2026-09-12)
 41. "More indirect way of tracking is comparing the timeline of your views and engagement against when the installs come in" — https://x.com/aleksascales/status/2099009892480700628 (2026-09-13)
 42. "See what's working in niches close to yours and adapt it for your product" — https://x.com/aleksascales/status/2099008933759250866 (2026-09-13)
+
+43. "Distribution is the number one business on that list" — QT note — https://x.com/aleksascales/status/2099488335030853784 (2026-09-14)
+44. "The only scarce thing left is attention and whoever owns the pipes to reach people wins by default" — same
+45. "Half the AI wrapper companies blowing up right now aren't better than their competitors, they just outdistributed them" — same
+46. "You can have the best vertical agent or the best physical product on earth and still lose to someone worse who simply got in front of more people / That's the whole game now" — same
+47. "Add two zeros to that monthly budget and you might have a chance" — reply on underfunded ads — https://x.com/aleksascales/status/2099579042030633275 (2026-09-14)

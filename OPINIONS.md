@@ -52,3 +52,9 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes fro
 - Reply-rate context on that tactic: ~**20%** from what he remembers.
 - Attribution / conversion tracking: compare the timeline of views and engagement against when installs come in (indirect tracking).
 - Steal/adapt: see what's working in niches close to yours and adapt it for your product.
+
+## Distribution scarcity / pipes (X 2026-09-14)
+- Quoting a "businesses left to build" list: **distribution is #1** — everyone has a good product now; scarce resource is attention; whoever owns the pipes to reach people wins by default.
+- AI wrapper companies blowing up often aren't better than competitors — they **outdistributed** them.
+- Best vertical agent / physical product still loses to someone worse who simply got in front of more people — "That's the whole game now."
+- Light operator dunk on underfunded paid tests: $2–3k/mo ads into a $41M/mo mobile-game clone experiment needs "add two zeros" to the monthly budget to have a chance (reply framing, not a full playbook).
