@@ -70,3 +70,6 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 45. "Half the AI wrapper companies blowing up right now aren't better than their competitors, they just outdistributed them" — same
 46. "You can have the best vertical agent or the best physical product on earth and still lose to someone worse who simply got in front of more people / That's the whole game now" — same
 47. "Add two zeros to that monthly budget and you might have a chance" — reply on underfunded ads — https://x.com/aleksascales/status/2099579042030633275 (2026-09-14)
+
+48. "You need to know how to sell to men and women differently / With men it's simple, be direct and show them the solution immediately / … Just a different packaging" — X note — https://x.com/aleksascales/status/2099833358297846241 (2026-09-15)
+49. "This is what happens when you run ads before clipping" — X QT — https://x.com/aleksascales/status/2100100973234446485 (2026-09-16)
