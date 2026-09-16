@@ -1,6 +1,6 @@
 # OPINIONS
 
-Durable public positions and frameworks. Paraphrase grounded in cited quotes from public posts and long-form (private evidence ledger not in this repo); do not invent private beliefs.
+Durable public positions and frameworks. Paraphrase grounded in cited quotes in cited public sources; do not invent private beliefs.
 
 ## What clipping is / why it works
 - Clipping = take long-form (podcasts, streams, gameplay, libraries) → short-form → distribute on TikTok / Reels / Shorts / X at volume; clippers paid on **CPM** (per 1,000 views).
@@ -54,7 +54,13 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes fro
 - Steal/adapt: see what's working in niches close to yours and adapt it for your product.
 
 ## Distribution scarcity / pipes (X 2026-09-14)
-- Quoting a "businesses left to build" list: **distribution is #1** — everyone has a good product now; scarce resource is attention; whoever owns the pipes to reach people wins by default.
-- AI wrapper companies blowing up often aren't better than competitors — they **outdistributed** them.
-- Best vertical agent / physical product still loses to someone worse who simply got in front of more people — "That's the whole game now."
-- Light operator dunk on underfunded paid tests: $2–3k/mo ads into a $41M/mo mobile-game clone experiment needs "add two zeros" to the monthly budget to have a chance (reply framing, not a full playbook).
+- Quoting a “businesses left to build” list: **distribution is #1** — everyone has a good product now; scarce resource is attention; whoever owns the pipes to reach people wins by default.
+- AI wrapper companies blowing up often aren’t better than competitors — they **outdistributed** them.
+- Best vertical agent / physical product still loses to someone worse who simply got in front of more people — “That’s the whole game now.”
+- Light operator dunk on underfunded paid tests: $2–3k/mo ads into a $41M/mo mobile-game clone experiment needs “add two zeros” to the monthly budget to have a chance (reply framing, not a full playbook).
+
+## Gendered packaging / offer framing (X 2026-09-15)
+- Sell to men and women with **different packaging**: men — direct, immediate solution/fix; women — softer framing/narrative packaging. Same underlying offer, different delivery.
+
+## Ads vs clipping order (X 2026-09-16)
+- Running paid ads **before** clipping is a failure mode (punchy QT on a viral kid-spent-dad's-card ads story). Clip/organic distribution first; ads after you know what hits.
