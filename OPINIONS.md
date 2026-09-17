@@ -64,3 +64,8 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 
 ## Ads vs clipping order (X 2026-09-16)
 - Running paid ads **before** clipping is a failure mode (punchy QT on a viral kid-spent-dad's-card ads story). Clip/organic distribution first; ads after you know what hits.
+
+## Account warmup / Tier 1 geo setup (X 2026-09-16)
+- Public playbook for warming accounts to hit **Tier 1 audiences**: used iPhone 11+ (~$50–80), factory reset + no SIM, English/US setup, rented US number for Apple ID, kill location signals + airplane mode, lock timezone to proxy city, ISP proxy (Iproyal cited as fine; other providers OK), verify IP shows US, fresh email, create TikTok/IG on that stack — never from real connection; YouTube needs little setup.
+- Warm **1–3 days** before posting (sometimes 15–30 min of normal-user engagement works); scroll/engage/follow in niche; first-post signal of a few hundred–few thousand views means you're set.
+- Ops replies: ~**up to 3 accounts per phone** usually safe (some push more); quality rented numbers + regenerate if needed; local marketplaces for used phones.
