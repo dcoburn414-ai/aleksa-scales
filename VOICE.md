@@ -73,3 +73,10 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 
 48. "You need to know how to sell to men and women differently / With men it's simple, be direct and show them the solution immediately / … Just a different packaging" — X note — https://x.com/aleksascales/status/2099833358297846241 (2026-09-15)
 49. "This is what happens when you run ads before clipping" — X QT — https://x.com/aleksascales/status/2100100973234446485 (2026-09-16)
+50. "A lot of people still have no idea how to properly warm up an account and hit Tier 1 audiences so here's the exact setup" — X note — https://x.com/aleksascales/status/2100199269575901358 (2026-09-16)
+51. "Never open any of these accounts from your real connection" — same
+52. "Warm it up for 1-3 days before posting" / "15 to 30 minutes of engagement and posting right after" — same
+53. "And if your first post gets a few hundred to a few thousand views you're set" — same
+54. "Every day should be marketing day" — reply — https://x.com/aleksascales/status/2100210433332298110 (2026-09-16)
+55. "Up to 3 accounts is usually safe, although some people make even more" — reply — https://x.com/aleksascales/status/2100486862598967779 (2026-09-17)
+56. "Just act like a normal user for 15-30 minutes" — reply on warmup — https://x.com/aleksascales/status/2100217632121057359 (2026-09-16)
