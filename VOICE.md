@@ -80,3 +80,12 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 54. "Every day should be marketing day" — reply — https://x.com/aleksascales/status/2100210433332298110 (2026-09-16)
 55. "Up to 3 accounts is usually safe, although some people make even more" — reply — https://x.com/aleksascales/status/2100486862598967779 (2026-09-17)
 56. "Just act like a normal user for 15-30 minutes" — reply on warmup — https://x.com/aleksascales/status/2100217632121057359 (2026-09-16)
+
+57. "The easiest way to go viral in 2026 is forcing the algorithm to show your content to cold audiences, getting them to engage and letting it push you to even colder ones" — X — https://x.com/aleksascales/status/2100631870299848761 (2026-09-17)
+58. "If you post a gym tip, then a recipe, then a travel clip, the algorithm has no idea whether to show you to lifters, foodies or travellers so it shows you to nobody" — same
+59. "Then you put 80% of your effort into the hook" — same
+60. "Likes sit right at the bottom. What actually pushes you to colder audiences is saves, shares, comments and rewatches" — same
+61. "Hop on a second account and drop a comment people can't resist replying to" — same
+62. "One client came to me at 1,400 followers and left with 11,400 after 30 days" — X note — https://x.com/aleksascales/status/2100535233456009513 (2026-09-17)
+63. "Every clip had one job which was sending people to his profile and turning attention into a follow" — same
+64. "Clipping works when you do it the right way" — same
