@@ -1,6 +1,6 @@
 # OPINIONS
 
-Durable public positions and frameworks. Paraphrase grounded in cited quotes in cited public sources; do not invent private beliefs.
+Durable public positions and frameworks. Paraphrase grounded in his public writing and posts; do not invent private beliefs.
 
 ## What clipping is / why it works
 - Clipping = take long-form (podcasts, streams, gameplay, libraries) → short-form → distribute on TikTok / Reels / Shorts / X at volume; clippers paid on **CPM** (per 1,000 views).
@@ -69,3 +69,13 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Public playbook for warming accounts to hit **Tier 1 audiences**: used iPhone 11+ (~$50–80), factory reset + no SIM, English/US setup, rented US number for Apple ID, kill location signals + airplane mode, lock timezone to proxy city, ISP proxy (Iproyal cited as fine; other providers OK), verify IP shows US, fresh email, create TikTok/IG on that stack — never from real connection; YouTube needs little setup.
 - Warm **1–3 days** before posting (sometimes 15–30 min of normal-user engagement works); scroll/engage/follow in niche; first-post signal of a few hundred–few thousand views means you're set.
 - Ops replies: ~**up to 3 accounts per phone** usually safe (some push more); quality rented numbers + regenerate if needed; local marketplaces for used phones.
+
+## Cold-audience virality playbook (X 2026-09-17)
+- Go viral by **forcing cold distribution on purpose**: niche one account to one topic so the algorithm knows who to test you on; mixed niches (gym + recipe + travel) get shown to nobody.
+- Put **~80% of effort into the hook** — reaction that stops the scroll beats bland “how I made money” intros; punchy stakes hooks force a stop.
+- Rank engagement: **saves, shares, comments, rewatches** push to colder audiences; likes sit at the bottom. Build for saveable formats (“5 apps I wish I knew”).
+- Easiest manufactured signal: comments — second account drops a slightly wrong / controversial take people correct or fight; every reply tells the algorithm to push further. Repeat.
+
+## Follower-growth clipping case (X 2026-09-17)
+- Proof case: business-niche client **1,400 → 11,400 followers in ~30 days** (≈10k by day 21) via clipping aimed at **profile visits / follows**, not vanity views.
+- Ops: onboard hundreds of active clippers in 2–3 days; hundreds of shorts daily each with CTA back to main profile; keep **moderation tight** so quality holds as volume ramps; every clip’s job is attention → follow. “Clipping works when you do it the right way.”
