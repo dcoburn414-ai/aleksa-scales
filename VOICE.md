@@ -89,3 +89,14 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 62. "One client came to me at 1,400 followers and left with 11,400 after 30 days" — X note — https://x.com/aleksascales/status/2100535233456009513 (2026-09-17)
 63. "Every clip had one job which was sending people to his profile and turning attention into a follow" — same
 64. "Clipping works when you do it the right way" — same
+
+65. "We finally cracked organic marketing for games" — X — https://x.com/aleksascales/status/2101003820612620795 (2026-09-18)
+66. "Costs too much / Just run a clipping campaign instead" — reply (streamers vs clipping) — https://x.com/aleksascales/status/2100977258194165810 (2026-09-18)
+67. "Gaming is the biggest untapped opportunity in organic distribution and it's not even close" — X Article — https://x.com/aleksascales/status/2100966961345655200 (2026-09-18)
+68. "The gameplay is the content" / "If your game is genuinely fun to watch and fun to play it's already the content" — same
+69. "Clipping is the first time you get to run that distribution on purpose" — same
+70. "Paid gaming ads run $8 to $20+ CPM… Clipping campaigns for games (when properly managed) can run anywhere between $0.10 and $2 CPM" — same
+71. "At $0.50 CPM you buy 15 million views for $7,500" — same
+72. "That single question does more than any call to action on the clip itself" — on "what game is this" comments — same
+73. "A dead comment section on a viral game clip is thousands of players walking away at the last step" — same
+74. "Building the game is the job" — why studios should not DIY the clipping department — same
