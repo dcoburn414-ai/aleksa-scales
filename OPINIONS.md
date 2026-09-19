@@ -60,7 +60,7 @@ Durable public positions and frameworks. Paraphrase grounded in his public writi
 - Light operator dunk on underfunded paid tests: $2–3k/mo ads into a $41M/mo mobile-game clone experiment needs “add two zeros” to the monthly budget to have a chance (reply framing, not a full playbook).
 
 ## Gendered packaging / offer framing (X 2026-09-15)
-- Sell to men and women with **different packaging**: men — direct, immediate solution/fix; women — softer framing/narrative packaging. Same underlying offer, different delivery.
+- Sell to men and women with **different packaging**: men — direct, immediate solution/form; women — softer framing/narrative packaging. Same underlying offer, different delivery.
 
 ## Ads vs clipping order (X 2026-09-16)
 - Running paid ads **before** clipping is a failure mode (punchy QT on a viral kid-spent-dad's-card ads story). Clip/organic distribution first; ads after you know what hits.
@@ -79,3 +79,13 @@ Durable public positions and frameworks. Paraphrase grounded in his public writi
 ## Follower-growth clipping case (X 2026-09-17)
 - Proof case: business-niche client **1,400 → 11,400 followers in ~30 days** (≈10k by day 21) via clipping aimed at **profile visits / follows**, not vanity views.
 - Ops: onboard hundreds of active clippers in 2–3 days; hundreds of shorts daily each with CTA back to main profile; keep **moderation tight** so quality holds as volume ramps; every clip’s job is attention → follow. “Clipping works when you do it the right way.”
+
+## Games / organic clipping (X Article 2026-09-18)
+- Games are the biggest **untapped** organic distribution category: gameplay *is* the content — other niches must manufacture shareable material first.
+- Historical game spreads (YouTubers → streaming → random pop-offs → friend-slop) were distribution finding games by accident; **clipping runs that distribution on purpose**.
+- Two requirements: **shareable gameplay** (stop-scroll moments) + **budget** at volume. Bootstrapped teams should self-clip until funded; funded studios should buy reach.
+- Economics: paid gaming ads often $8–$20+ CPM; managed game clipping ~$0.10–$2 CPM. Example: ~$0.50 CPM → ~15M views for ~$7.5k; same paid reach is six figures and converts worse because it looks like an ad.
+- Clip-acquired players convert/retain better than banner-interrupted ad traffic; clips **compound** (stay up / keep pulling) while paid flights go to zero after spend.
+- Comment section is the conversion layer: engineer "what game is this?" then answer from the main account — discovery → public conversation → algorithm fuel. Dead comments = lost players at the last step.
+- DIY clipping at funded-campaign scale becomes its own department; most studios should use an agency with network + bot detection + pattern recognition. Soft CTA to Cliptic/calendly is sales, not a new framework.
+- Prefer clipping over paying streamers when streamer cost is too high (X reply 2026-09-18).
