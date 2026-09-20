@@ -100,3 +100,13 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 72. "That single question does more than any call to action on the clip itself" — on "what game is this" comments — same
 73. "A dead comment section on a viral game clip is thousands of players walking away at the last step" — same
 74. "Building the game is the job" — why studios should not DIY the clipping department — same
+
+75. "Here's exactly how we generated 24 million views for a game at under $0.31 CPM in under a month" — X note — https://x.com/aleksascales/status/2101277158853275859 (2026-09-19)
+76. "we spent a few days scraping the most viral videos across social media plus examples from similar games that hit" — same
+77. "Every video has a maximum payout, so if one hits 10 million views the creator doesn't get paid past the cap… the client got millions of extra views for free, which drops the CPM massively" — same
+78. "If you have a game and actual good content behind it, there's no reason to not get tens to hundreds of millions of views a month doing this" — same
+79. "And the secret formula is shit ton of volume" — X note — https://x.com/aleksascales/status/2101397665569481052 (2026-09-19)
+80. "If you push serious volume every single day there's no chance in the world that at some point… one video or several don't hit" — same
+81. "Volume and consistency beat everything else in this game" — same
+82. "Run a clipping campaign for them and watch the player count skyrocket" — reply — https://x.com/aleksascales/status/2101372597539660020 (2026-09-19)
+83. "For games it's usually user acquisition" — reply on downstream KPIs — https://x.com/aleksascales/status/2101564918411542967 (2026-09-20)
