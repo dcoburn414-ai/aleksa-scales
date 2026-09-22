@@ -112,3 +112,7 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 83. "For games it's usually user acquisition" — reply on downstream KPIs — https://x.com/aleksascales/status/2101564918411542967 (2026-09-20)
 
 84. "Definitely the highest ROI player base any game ever had" — on ex-Fortnite talent / money made since — https://x.com/aleksascales/status/2101714503838712190 (2026-09-20)
+
+85. "Everything already exists in 2026. The smart move isn't inventing but finding a genuinely good product with terrible marketing and fixing that" — X note — https://x.com/aleksascales/status/2102091235855143231 (2026-09-21)
+86. "No matter how good a product is, if nobody discovers it, it's worth zero" — same
+87. "Find a tool, market it properly, and you just handed yourself a serious amount of money" — same
