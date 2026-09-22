@@ -99,3 +99,9 @@ Durable public positions and frameworks. Paraphrase grounded in his public writi
 
 ## Gaming talent pools (X 2026-09-20)
 - Public aside: competitive **Fortnite** player bases are framed as among the highest-ROI talent pools any game has produced — the money those players made after the game compounds the skill/attention they built inside it (light observation, not a full hiring playbook).
+
+## Marketing over invention (X 2026-09-21)
+- Everything **already exists in 2026** — when products blow up to millions/month, the crowd asks "how did nobody think of this?" They *did*; what they didn't do was **market it**.
+- Smart move is not inventing: find a genuinely good product with **terrible marketing** and fix distribution. Undiscovered product = worth **zero**, no matter how useful or clever.
+- Pairs with existing "Half the AI wrapper companies…" / distribution-scarcity thesis: take a tool, market it properly, hand yourself serious money.
+- Light ops reminder (thin post): **restrict audiences** on Instagram warmups / multi-account stacks (pairs with existing account-warmup / Tier 1 restrict themes).
