@@ -116,3 +116,8 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 85. "Everything already exists in 2026. The smart move isn't inventing but finding a genuinely good product with terrible marketing and fixing that" — X note — https://x.com/aleksascales/status/2102091235855143231 (2026-09-21)
 86. "No matter how good a product is, if nobody discovers it, it's worth zero" — same
 87. "Find a tool, market it properly, and you just handed yourself a serious amount of money" — same
+
+88. "Where do I find the good creators? / How much do I pay them? / How do I train them?" — X note — https://x.com/aleksascales/status/2102456643846017284 (2026-09-22)
+89. "The base of finding creators is posting your campaign on a clipping platform" / "Do all of it at the same time and run it properly and the creators come" — same
+90. "If you're a streamer with genuinely interesting content that can pull millions of views a day, there's no need to go higher than a few tens of cents on CPM" / "If your content is boring, you have to raise higher" — same
+91. "Training starts with a fully detailed brief" / "one person dedicated to training the clippers, reviewing videos every single day" — same
