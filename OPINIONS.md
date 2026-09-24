@@ -35,4 +35,35 @@ Durable public positions and frameworks. Paraphrase grounded in his public writi
 - Attention literacy beats traditional media budgets: if someone at the company will pay ~$15k to place the brand where culture is actually looking (even absurd placements), promote them — they understand attention better than billboard approvers.
 - **Brands acting like kids** is how you get seen now; to stay on top, follow whatever is moving right (trend-chasing as distribution, not dignity theater).
 
-## Money
+## Money / career framing
+- **Clipping > YouTube monetisation** "in almost every way": same editing/distribution skill pointed at clipping beats grinding a ~$0.10 YouTube CPM while hoping the page doesn't get banned for something you didn't even do.
+- Clipping as broke-friendly business: paid from day 1 while learning **attention conversion**.
+- Young advantage = cheap failures; he frames six months at −$100 as best decision.
+- Marketing > building for apps in 2026; customers are on social FYPs not "tech X."
+
+## Comment-section leverage beats raw views (X 2026-09-11)
+- High views with dead comments lose to lower-view high-comment videos; spike comments on purpose.
+- Make content people want to argue with / ask about; seed a controversial comment on page 2; ask a direct question in the caption.
+- Comment section is an underused cheap lever.
+- Emerging bet: clipping campaigns will hit AI singers / synthetic creators next (watch who moves first).
+
+## Outreach / growth tactics (X 2026-09-12)
+- **$1 Whop DM outreach**: send $1 so the recipient gets an email + popup into DMs with the message waiting; spent ~$100, closed 2 deals — frames as most profitable outreach method he has run.
+- Reply-rate context on that tactic: ~**20%** from what he remembers.
+- Attribution / conversion tracking: compare the timeline of views and engagement against when installs come in (indirect tracking).
+- Steal/adapt: see what's working in niches close to yours and adapt it for your product.
+
+## Distribution scarcity / pipes (X 2026-09-14)
+- Quoting a “businesses left to build” list: **distribution is #1** — everyone has a good product now; scarce resource is attention; whoever owns the pipes to reach people wins by default.
+- AI wrapper companies blowing up often aren’t better than competitors — they **outdistributed** them.
+- Best vertical agent / physical product still loses to someone worse who simply got in front of more people — “That’s the whole game now.”
+- Light operator dunk on underfunded paid tests: $2–3k/mo ads into a $41M/mo mobile-game clone experiment needs “add two zeros” to the monthly budget to have a chance (reply framing, not a full playbook).
+
+## Gendered packaging / offer framing (X 2026-09-15)
+- Sell to men and women with **different packaging**: men — direct, immediate solution/form; women — softer framing/narrative packaging. Same underlying offer, different delivery.
+
+## Ads vs clipping order (X 2026-09-16)
+- Running paid ads **before** clipping is a failure mode (punchy QT on a viral kid-spent-dad's-card ads story). Clip/organic distribution first; ads after you know what hits.
+
+## Account warmup / Tier 1 geo setup (X 2026-09-16)
+- Public playbook for warming accounts to hit **Tier 1 audiences**: used iPhone 11+ (~$50–80), factory reset + no SIM, English/US setup, rented US number for Apple ID, kill location signals + airplane mode, lock timezone to proxy city, ISP proxy (Iproyal cited as fine; other providers OK), verify IP shows US, fresh email
