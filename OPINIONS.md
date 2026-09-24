@@ -88,3 +88,34 @@ Durable public positions and frameworks. Paraphrase grounded in his public writi
 - Clip-acquired players convert/retain better than banner-interrupted ad traffic; clips **compound** (stay up / keep pulling) while paid flights go to zero after spend.
 - Comment section is the conversion layer: engineer "what game is this?" then answer from the main account — discovery → public conversation → algorithm fuel. Dead comments = lost players at the last step.
 - DIY clipping at funded-campaign scale becomes its own department; most studios should use an agency with network + bot detection + pattern recognition. Soft CTA to Cliptic/calendly is sales, not a new framework.
+- Prefer clipping over paying streamers when streamer cost is too high (X reply 2026-09-18).
+
+## Games campaign ops / volume (X 2026-09-19)
+- Case: **~24M views under ~$0.31 CPM in under a month** for a game with already-proven content.
+- Playbook: (1) diagnose game + scrape viral / similar-game hits for strategy; (2) detailed brief — clip look, CTA, page types (brand / broad / niche game pages); (3) launch; (4) onboard creators who already pull niche views, **ramp creators+videos daily** for ~4 weeks while iterating format on what works.
+- **Max payout caps** per video: creator still gets paid well on a 10M hit, client gets surplus views free → CPM collapses. Good content + this system → tens to hundreds of millions of views/month is the ask.
+- Secret formula is **volume**: push serious daily volume until something hits (hours/days/weeks), then **copy the winner** across the rest and keep running while it performs. Volume + consistency beat clever one-offs.
+- Light ops: clipping campaigns can skyrocket player count; for games, downstream KPI is usually **user acquisition**; geos often majority Tier 1.
+
+## Gaming talent pools (X 2026-09-20)
+- Public aside: competitive **Fortnite** player bases are framed as among the highest-ROI talent pools any game has produced — the money those players made after the game compounds the skill/attention they built inside it (light observation, not a full hiring playbook).
+
+## Marketing over invention (X 2026-09-21)
+- Everything **already exists in 2026** — when products blow up to millions/month, the crowd asks "how did nobody think of this?" They *did*; what they didn't do was **market it**.
+- Smart move is not inventing: find a genuinely good product with **terrible marketing** and fix distribution. Undiscovered product = worth **zero**, no matter how useful or clever.
+- Pairs with existing "Half the AI wrapper companies…" / distribution-scarcity thesis: take a tool, market it properly, hand yourself serious money.
+- Light ops reminder (thin post): **restrict audiences** on Instagram warmups / multi-account stacks (pairs with existing account-warmup / Tier 1 restrict themes).
+
+## Finding / paying / training clippers (X 2026-09-22)
+- Three recurring ops questions: where to find good creators, how much to pay, how to train them.
+- **Find**: post the campaign on a clipping platform first; often not enough alone. DIY stack (if not using an agency network): social outreach, hired outreach to relevant pages, job posts, referral giveaways — run in parallel until creators show up.
+- **Pay**: niche + virality dependent. Strong streamer content that can pull millions/day → low tens-of-cents CPM is enough; boring content needs higher rates so people bother clipping. Benchmark competitor pay in your niche and sit close.
+- **Train**: start with a fully detailed brief (what to post, formats, examples, strategy). Dedicate someone to train clippers, review daily, and coach until view range + formats hit. Agency option is the out if you don't want to own this ops layer.
+
+## Emotion-market / pet owners (X 2026-09-23)
+- If restarting cold in a new place: sell to **pet owners** — emotional isolation → dogs as loyal companions → spend that "never stops" (clothes, food, vaccines, toys, even dog-translator apps).
+- General rule: **find where the emotion runs strongest** and a business sits there (emotion → willingness to pay).
+
+## UGC maps need real distribution (X 2026-09-23)
+- Personal: childhood Roblox/Fortnite maps he made did nothing while worse-looking maps print money.
+- In 2026: put a **clipping campaign** behind a Roblox game or Fortnite map — more players for pennies vs hoping hype/community lasts forever. Extends games-clipping thesis to creator-built maps/games.
