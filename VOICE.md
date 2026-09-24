@@ -121,3 +121,10 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 89. "The base of finding creators is posting your campaign on a clipping platform" / "Do all of it at the same time and run it properly and the creators come" — same
 90. "If you're a streamer with genuinely interesting content that can pull millions of views a day, there's no need to go higher than a few tens of cents on CPM" / "If your content is boring, you have to raise higher" — same
 91. "Training starts with a fully detailed brief" / "one person dedicated to training the clippers, reviewing videos every single day" — same
+
+92. "If I had to give everything up tomorrow and start over somewhere new, I already know exactly who I'd sell to there / Pet owners" — X note — https://x.com/aleksascales/status/2102805442393243705 (2026-09-23)
+93. "People get more emotionally isolated every year" / "a dog never betrays you" / "That's why the spending never stops" — same
+94. "Find where the emotion runs strongest and there's a business sitting right there" — same
+95. "When I was a kid my dream was to make a Roblox game or a Fortnite map and actually earn off it" / "Neither the Fortnite map nor the Roblox game I made did anything" — X note — https://x.com/aleksascales/status/2102700752636391540 (2026-09-23)
+96. "You can launch a clipping campaign for your Roblox game or Fortnite map, bring in way more players and earn way more while paying pennies" — same
+97. "Most creators never thought to put real distribution behind their project so they just lean on the hype and community and hope it lasts forever" — same
