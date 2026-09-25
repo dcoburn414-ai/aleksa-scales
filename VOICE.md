@@ -128,3 +128,7 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 95. "When I was a kid my dream was to make a Roblox game or a Fortnite map and actually earn off it" / "Neither the Fortnite map nor the Roblox game I made did anything" — X note — https://x.com/aleksascales/status/2102700752636391540 (2026-09-23)
 96. "You can launch a clipping campaign for your Roblox game or Fortnite map, bring in way more players and earn way more while paying pennies" — same
 97. "Most creators never thought to put real distribution behind their project so they just lean on the hype and community and hope it lasts forever" — same
+
+98. "One of the funniest takes I hear is “do you really think my audience is on TikTok or Instagram?” / Yes. They're there" — X note — https://x.com/aleksascales/status/2103183684459520248 (2026-09-24)
+99. "It's 2026 and everyone is on social media" / "Even the people you'd never expect are scrolling somewhere, whether it's on one platform or five" — same
+100. "Every excuse is completely dead and if you still think that way you're just far behind" — same
