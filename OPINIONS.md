@@ -1,6 +1,6 @@
 # OPINIONS
 
-Durable public positions and frameworks. Paraphrase grounded in his public writing and posts; do not invent private beliefs.
+Durable public positions and frameworks. Paraphrase grounded in cited quotes from his public posts and long-form (private evidence ledger not in this repo); do not invent private beliefs.
 
 ## What clipping is / why it works
 - Clipping = take long-form (podcasts, streams, gameplay, libraries) → short-form → distribute on TikTok / Reels / Shorts / X at volume; clippers paid on **CPM** (per 1,000 views).
@@ -119,3 +119,7 @@ Durable public positions and frameworks. Paraphrase grounded in his public writi
 ## UGC maps need real distribution (X 2026-09-23)
 - Personal: childhood Roblox/Fortnite maps he made did nothing while worse-looking maps print money.
 - In 2026: put a **clipping campaign** behind a Roblox game or Fortnite map — more players for pennies vs hoping hype/community lasts forever. Extends games-clipping thesis to creator-built maps/games.
+
+## Everyone is on social / excuse is dead (X 2026-09-24)
+- Reject "my audience isn’t on TikTok/Instagram" — in **2026 everyone is on social**, including people you’d never expect (one platform or five).
+- That objection is framed as a **dead excuse**; operators still saying it are behind. Prefer pushing distribution onto the platforms where attention actually lives over claiming niche audiences live offline.
