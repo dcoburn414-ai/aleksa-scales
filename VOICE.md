@@ -132,3 +132,13 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 98. "One of the funniest takes I hear is “do you really think my audience is on TikTok or Instagram?” / Yes. They're there" — X note — https://x.com/aleksascales/status/2103183684459520248 (2026-09-24)
 99. "It's 2026 and everyone is on social media" / "Even the people you'd never expect are scrolling somewhere, whether it's on one platform or five" — same
 100. "Every excuse is completely dead and if you still think that way you're just far behind" — same
+
+101. "TV show and movie marketing might have the most braindead teams in the entire industry" / "every single movie, show or documentary that exploded in the past year… was everywhere on TikTok and Instagram" — X note — https://x.com/aleksascales/status/2103909969880064026 (2026-09-26)
+102. "A 15 year old understands this and entire marketing departments with 8 figure budgets don't" — same
+103. "The fact that some people pour everything into paid ads and influencer marketing instead of building an organic short form operation is really crazy" — same
+104. "I'll never stop saying that comments are the most underrated way to get sales/signups/users" — X note — https://x.com/aleksascales/status/2103549595238498415 (2026-09-25)
+105. "The second your video hits 1k views, jump on your other account and plant something" / "Ask what's the product called" / "drop a controversial take so people argue back" — same
+106. "Every comment has its own value, and used right they can multiply what every single view is worth to you" — same
+107. "We ended up posting thousands of videos and got around 4 million views at an effective CPM of $3" / "These types of apps usually pay 7x that on paid ads" — X note (real-money mobile game) — https://x.com/aleksascales/status/2103441132348748185 (2026-09-25)
+108. "when the campaign ends the pages don't disappear" / "clippers keep their pages up for weeks after the budget is done… All of it free at that point" — same
+109. "Clipping is THE way, just waiting for more games to start implementing it" — same
