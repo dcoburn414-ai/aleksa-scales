@@ -123,3 +123,17 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes fro
 ## Everyone is on social / excuse is dead (X 2026-09-24)
 - Reject "my audience isn’t on TikTok/Instagram" — in **2026 everyone is on social**, including people you’d never expect (one platform or five).
 - That objection is framed as a **dead excuse**; operators still saying it are behind. Prefer pushing distribution onto the platforms where attention actually lives over claiming niche audiences live offline.
+
+## Hollywood / TV marketing is behind on short-form (X 2026-09-26)
+- TV/movie marketing teams are framed as **braindead** relative to organic short-form: flop → "we projected too early"; rare breakout → confusion — while every recent explosion lived on **TikTok and Instagram**.
+- People share what they love; one organic TikTok can pull millions of views/shares/comments alone. A teenager gets this; eight-figure marketing departments often don't.
+- Prediction: at least one studio runs a proper **clipping campaign** behind a release, blows it up, and the rest copy. Prefer building an **organic short-form operation** over pouring everything into paid ads + influencers alone.
+
+## Comment planting / multiply view value (X 2026-09-25)
+- **Comments are the most underrated** sales/signup/user lever. After ~1k views, plant from another account: ask the product name, ask if anyone tested it, or drop a controversial take so people argue.
+- Every comment has value; used right they **multiply what each view is worth**. Extends existing comment-section conversion thesis (games "what game is this?") to general consumer/apps.
+
+## Real-money / gambling-niche game clipping (X 2026-09-25)
+- Case: real-money mobile game (gambling-adjacent). Creative play: make it look like a **fun game** while money stays **indirect** so platforms don't flag (flagging in that niche is brutal).
+- Result: thousands of videos → ~**4M views at ~$3 effective CPM** vs apps that often pay **~7×** that on paid ads.
+- After campaign budget ends, **pages stay up** — clippers leave them for weeks → ongoing free views/comments/downloads. Clipping is **THE way**; more games should implement it.
