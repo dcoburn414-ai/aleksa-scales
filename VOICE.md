@@ -142,3 +142,8 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 107. "We ended up posting thousands of videos and got around 4 million views at an effective CPM of $3" / "These types of apps usually pay 7x that on paid ads" — X note (real-money mobile game) — https://x.com/aleksascales/status/2103441132348748185 (2026-09-25)
 108. "when the campaign ends the pages don't disappear" / "clippers keep their pages up for weeks after the budget is done… All of it free at that point" — same
 109. "Clipping is THE way, just waiting for more games to start implementing it" — same
+
+110. "So it's NOT about consumer vs business / It's about broke vs rich, and broke behaves the same at every level" — X note — https://x.com/aleksascales/status/2104292993880506868 (2026-09-27)
+111. "When I was reselling clothes I hated it because I was selling to consumers, and consumers usually don't have the money / Which means they never stop crying" — same
+112. "Then I moved to B2B and realised it was the exact same thing / Do you guarantee results? Can I expect at least 2x ROI?" — same
+113. "\"But what if it doesn't work out\" / It must / Otherwise I'll have to stream gambling" — X — https://x.com/aleksascales/status/2104201390360817842 (2026-09-27)
