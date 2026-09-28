@@ -137,3 +137,10 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes fro
 - Case: real-money mobile game (gambling-adjacent). Creative play: make it look like a **fun game** while money stays **indirect** so platforms don't flag (flagging in that niche is brutal).
 - Result: thousands of videos → ~**4M views at ~$3 effective CPM** vs apps that often pay **~7×** that on paid ads.
 - After campaign budget ends, **pages stay up** — clippers leave them for weeks → ongoing free views/comments/downloads. Clipping is **THE way**; more games should implement it.
+
+## Broke vs rich (not B2C vs B2B) (X 2026-09-27)
+- Reselling clothes taught him consumers without money **never stop crying** (lower price, free shipping, tiny-tag refunds/sue threats). Moving to B2B looked different until the same asks appeared (guarantee results, 2× ROI, smaller starter package).
+- Frame: it is **not consumer vs business** — it is **broke vs rich**, and broke behaves the same at every level. Prefer selling buyers with money over assuming B2B alone fixes price sensitivity. Aligns with Hormozi-style sell-rich / hear-no-more without inventing his words.
+
+## Must-work / no soft landing (X 2026-09-27)
+- On "what if it doesn't work out": **It must** — otherwise the joke fallback is streaming gambling. Prefer forced commitment / no soft exit over contingency theater.
