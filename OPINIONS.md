@@ -1,6 +1,6 @@
 # OPINIONS
 
-Durable public positions and frameworks. Paraphrase grounded in cited quotes from his public posts and long-form (private evidence ledger not in this repo); do not invent private beliefs.
+Durable public positions and frameworks. Paraphrase grounded in cited quotes in his public posts and long-form (private evidence ledger); do not invent private beliefs.
 
 ## What clipping is / why it works
 - Clipping = take long-form (podcasts, streams, gameplay, libraries) → short-form → distribute on TikTok / Reels / Shorts / X at volume; clippers paid on **CPM** (per 1,000 views).
@@ -144,3 +144,6 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes fro
 
 ## Must-work / no soft landing (X 2026-09-27)
 - On "what if it doesn't work out": **It must** — otherwise the joke fallback is streaming gambling. Prefer forced commitment / no soft exit over contingency theater.
+
+## Viral is a format to reuse, not a one-hit wonder (X 2026-09-28)
+- Biggest mistake: treating a viral video as a one-and-done. Reuse the format; weeks later if nothing new hits as hard, **repost the same video with small changes** — can outperform the original. Cost ≈ 0; returns climb.
