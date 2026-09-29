@@ -147,3 +147,5 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 111. "When I was reselling clothes I hated it because I was selling to consumers, and consumers usually don't have the money / Which means they never stop crying" — same
 112. "Then I moved to B2B and realised it was the exact same thing / Do you guarantee results? Can I expect at least 2x ROI?" — same
 113. "\"But what if it doesn't work out\" / It must / Otherwise I'll have to stream gambling" — X — https://x.com/aleksascales/status/2104201390360817842 (2026-09-27)
+
+114. "One of the biggest mistakes I see on social media is people treating a viral video like a one hit wonder" / "If a video does well you can run that same format again, or even the same video" / "repost the same video with a few small changes and it can outperform the original" / "Costs you nothing and the returns keep climbing" — X note — https://x.com/aleksascales/status/2104542891079344458 (2026-09-28)
