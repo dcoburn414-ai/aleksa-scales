@@ -32,7 +32,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Public claims: 1B+ views, ~70k–75k creators in network, campaigns for large brands; founded Cliptic (@thecliptic / cliptic.co). Website lists him as Aleksa Ibrahimovic (CEO); X display Aleksa / Aleksa Scales.
 
 ## Attention / culture placement
-- Attention literacy beats traditional media budgets; if someone at the company will pay ~$15k to place the brand where culture is actually looking (even absurd placements), promote them — they understand attention better than billboard approvers.
+- Attention literacy beats traditional media budgets: if someone at the company will pay ~$15k to place the brand where culture is actually looking (even absurd placements), promote them — they understand attention better than billboard approvers.
 - **Brands acting like kids** is how you get seen now; to stay on top, follow whatever is moving right (trend-chasing as distribution, not dignity theater).
 
 ## Money / career framing
@@ -42,7 +42,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Marketing > building for apps in 2026; customers are on social FYPs not "tech X."
 
 ## Comment-section leverage beats raw views (X 2026-09-11)
-- High views with dead comments lose to lower-view high-comment videos; spike comments on purpose.
+- High views with dead comments lose to lower-view high-comment cards; spike comments on purpose.
 - Make content people want to argue with / ask about; seed a controversial comment on page 2; ask a direct question in the caption.
 - Comment section is an underused cheap lever.
 - Emerging bet: clipping campaigns will hit AI singers / synthetic creators next (watch who moves first).
