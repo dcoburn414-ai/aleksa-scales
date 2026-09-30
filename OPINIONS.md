@@ -42,7 +42,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Marketing > building for apps in 2026; customers are on social FYPs not "tech X."
 
 ## Comment-section leverage beats raw views (X 2026-09-11)
-- High views with dead comments lose to lower-view high-comment cards; spike comments on purpose.
+- High views with dead comments lose to lower-view high-comment videos; spike comments on purpose.
 - Make content people want to argue with / ask about; seed a controversial comment on page 2; ask a direct question in the caption.
 - Comment section is an underused cheap lever.
 - Emerging bet: clipping campaigns will hit AI singers / synthetic creators next (watch who moves first).
