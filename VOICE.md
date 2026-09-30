@@ -149,3 +149,8 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 113. "\"But what if it doesn't work out\" / It must / Otherwise I'll have to stream gambling" — X — https://x.com/aleksascales/status/2104201390360817842 (2026-09-27)
 
 114. "One of the biggest mistakes I see on social media is people treating a viral video like a one hit wonder" / "If a video does well you can run that same format again, or even the same video" / "repost the same video with a few small changes and it can outperform the original" / "Costs you nothing and the returns keep climbing" — X note — https://x.com/aleksascales/status/2104542891079344458 (2026-09-28)
+
+115. "Get a bit dirty with your marketing" / "Using people's emotions is the easiest way to spike reactions, comments and views" — X note — https://x.com/aleksascales/status/2104995623783292965 (2026-09-29)
+116. "since you clearly don't know how to trade, here's how I do it" / "people went absolutely feral in the comments" — same
+117. "When you make someone mad enough and you hurt their ego, the only way they can defend themselves is by commenting" — same
+118. "someone agrees and backs them, someone disagrees and argues, and now you've got a chaotic comment section the algorithm can't stop pushing" — same
