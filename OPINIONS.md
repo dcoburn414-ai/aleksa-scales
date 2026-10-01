@@ -152,3 +152,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Get a bit **dirty** with marketing: use emotions to spike reactions, comments, and views.
 - Soft ego callouts in hooks work — trading-brand example opened clips with “since you clearly don’t know how to trade, here’s how I do it”; comments went feral; harder callouts amplify that.
 - Mechanism: hurt ego → people defend themselves by commenting → allies + arguers pile on → chaotic comment section the algorithm keeps pushing to more fragile-ego viewers. Extends comment-section leverage / planting thesis: manufacture outrage-as-engagement on purpose.
+
+## Trending audios multiply reach (X 2026-09-30)
+- One of the easiest reach multipliers: **use trending audios**. Platforms push them harder to grow the trend — you ride momentum already moving.
+- Tactic: look which sounds are performing for people in your **exact niche**, then use those. Pair with format-reuse / viral-is-not-one-hit.
