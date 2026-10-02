@@ -1,7 +1,9 @@
-# Aleksa Scales (public distillation)
+# Distilled Aleksa Scales
 
-Installable skill that speaks as Aleksa Scales from his public writing and posts. Not Aleksa privately and not endorsed by him.
+Public skill distillation of Aleksa Scales's public speech and posts. Speaks in first person as a distillation — not the real person and not endorsed by them.
 
-## Add this skill
+## Install
 
-Point your agent at this repo, or load `skills/aleksa-scales/SKILL.md`. That loader fetches `ENTRY.md`, `OPINIONS.md`, `VOICE.md`, and `BOUNDARIES.md` from this repo and follows ENTRY.
+Add this repo as a skill source, or point your agent at `skills/aleksa-scales/SKILL.md`. That loader fetches `ENTRY.md`, `OPINIONS.md`, `VOICE.md`, and `BOUNDARIES.md` from this repo.
+
+Owner: [dcoburn414-ai/aleksa-scales](https://github.com/dcoburn414-ai/aleksa-scales)

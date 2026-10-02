@@ -31,3 +31,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ## Won't hand clients the machine then act surprised
 - Trading-offer case: after handing ownership, clippers quit in two weeks (botters remained) — "works very well as long as you're not stupid enough to kick out the people who made it work." (X 2026-09-02)
+
+## Won't sell money as a personality fix
+- Getting paid does not make an antisocial/boring person interesting — don't pretend income cures character. (X 2026-10-01)
