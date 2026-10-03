@@ -64,3 +64,48 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 
 ## Ads vs clipping order (X 2026-09-16)
 - Running paid ads **before** clipping is a failure mode (punchy QT on a viral kid-spent-dad's-card ads story). Clip/organic distribution first; ads after you know what hits.
+
+## Account warmup / Tier 1 geo setup (X 2026-09-16)
+- Public playbook for warming accounts to hit **Tier 1 audiences**: used iPhone 11+ (~$50–80), factory reset + no SIM, English/US setup, rented US number for Apple ID, kill location signals + airplane mode, lock timezone to proxy city, ISP proxy (Iproyal cited as fine; other providers OK), verify IP shows US, fresh email, create TikTok/IG on that stack — never from real connection; YouTube needs little setup.
+- Warm **1–3 days** before posting (sometimes 15–30 min of normal-user engagement works); scroll/engage/follow in niche; first-post signal of a few hundred–few thousand views means you're set.
+- Ops replies: ~**up to 3 accounts per phone** usually safe (some push more); quality rented numbers + regenerate if needed; local marketplaces for used phones.
+
+## Cold-audience virality playbook (X 2026-09-17)
+- Go viral by **forcing cold distribution on purpose**: niche one account to one topic so the algorithm knows who to test you on; mixed niches (gym + recipe + travel) get shown to nobody.
+- Put **~80% of effort into the hook** — reaction that stops the scroll beats bland “how I made money” intros; punchy stakes hooks force a stop.
+- Rank engagement: **saves, shares, comments, rewatches** push to colder audiences; likes sit at the bottom. Build for saveable formats (“5 apps I wish I knew”).
+- Easiest manufactured signal: comments — second account drops a slightly wrong / controversial take people correct or fight; every reply tells the algorithm to push further. Repeat.
+
+## Follower-growth clipping case (X 2026-09-17)
+- Proof case: business-niche client **1,400 → 11,400 followers in ~30 days** (≈10k by day 21) via clipping aimed at **profile visits / follows**, not vanity views.
+- Ops: onboard hundreds of active clippers in 2–3 days; hundreds of shorts daily each with CTA back to main profile; keep **moderation tight** so quality holds as volume ramps; every clip’s job is attention → follow. “Clipping works when you do it the right way.”
+
+## Games / organic clipping (X Article 2026-09-18)
+- Games are the biggest **untapped** organic distribution category: gameplay *is* the content — other niches must manufacture shareable material first.
+- Historical game spreads (YouTubers → streaming → random pop-offs → friend-slop) were distribution finding games by accident; **clipping runs that distribution on purpose**.
+- Two requirements: **shareable gameplay** (stop-scroll moments) + **budget** at volume. Bootstrapped teams should self-clip until funded; funded studios should buy reach.
+- Economics: paid gaming ads often $8–$20+ CPM; managed game clipping ~$0.10–$2 CPM. Example: ~$0.50 CPM → ~15M views for ~$7.5k; same paid reach is six figures and converts worse because it looks like an ad.
+- Clip-acquired players convert/retain better than banner-interrupted ad traffic; clips **compound** (stay up / keep pulling) while paid flights go to zero after spend.
+- Comment section is the conversion layer: engineer "what game is this?" then answer from the main account — discovery → public conversation → algorithm fuel. Dead comments = lost players at the last step.
+- DIY clipping at funded-campaign scale becomes its own department; most studios should use an agency with network + bot detection + pattern recognition. Soft CTA to Cliptic/calendly is sales, not a new framework.
+- Prefer clipping over paying streamers when streamer cost is too high (X reply 2026-09-18).
+
+## Games campaign ops / volume (X 2026-09-19)
+- Case: **~24M views under ~$0.31 CPM in under a month** for a game with already-proven content.
+- Playbook: (1) diagnose game + scrape viral / similar-game hits for strategy; (2) detailed brief — clip look, CTA, page types (brand / broad / niche game pages); (3) launch; (4) onboard creators who already pull niche views, **ramp creators+videos daily** for ~4 weeks while iterating format on what works.
+- **Max payout caps** per video: creator still gets paid well on a 10M hit, client gets surplus views free → CPM collapses. Good content + this system → tens to hundreds of millions of views/month is the ask.
+- Secret formula is **volume**: push serious daily volume until something hits (hours/days/weeks), then **copy the winner** across the rest and keep running while it performs. Volume + consistency beat clever one-offs.
+- Light ops: clipping campaigns can skyrocket player count; for games, downstream KPI is usually **user acquisition**; geos often majority Tier 1.
+
+## Gaming talent pools (X 2026-09-20)
+- Public aside: competitive **Fortnite** player bases are framed as among the highest-ROI talent pools any game has produced — the money those players made after the game compounds the skill/attention they built inside it (light observation, not a full hiring playbook).
+
+## Marketing over invention (X 2026-09-21)
+- Everything **already exists in 2026** — when products blow up to millions/month, the crowd asks "how did nobody think of this?" They *did*; what they didn't do was **market it**.
+- Smart move is not inventing: find a genuinely good product with **terrible marketing** and fix distribution. Undiscovered product = worth **zero**, no matter how useful or clever.
+- Pairs with existing "Half the AI wrapper companies…" / distribution-scarcity thesis: take a tool, market it properly, hand yourself serious money.
+- Light ops reminder (thin post): **restrict audiences** on Instagram warmups / multi-account stacks (pairs with existing account-warmup / Tier 1 restrict themes).
+
+## Finding / paying / training clippers (X 2026-09-22)
+- Three recurring ops questions: where to find good creators, how much to pay, how to train them.
+- **Find**: post the campaign on a clipping platform first; often not enough alone. DIY stack (if not using an agency network): social outreach, hired outreach to relevant pages, job posts, referral giveaways — run in parallel until creators show up.
