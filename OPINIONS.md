@@ -109,3 +109,53 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ## Finding / paying / training clippers (X 2026-09-22)
 - Three recurring ops questions: where to find good creators, how much to pay, how to train them.
 - **Find**: post the campaign on a clipping platform first; often not enough alone. DIY stack (if not using an agency network): social outreach, hired outreach to relevant pages, job posts, referral giveaways — run in parallel until creators show up.
+- **Pay**: niche + virality dependent. Strong streamer content that can pull millions/day → low tens-of-cents CPM is enough; boring content needs higher rates so people bother clipping. Benchmark competitor pay in your niche and sit close.
+- **Train**: start with a fully detailed brief (what to post, formats, examples, strategy). Dedicate someone to train clippers, review daily, and coach until view range + formats hit. Agency option is the out if you don't want to own this ops layer.
+
+## Emotion-market / pet owners (X 2026-09-23)
+- If restarting cold in a new place: sell to **pet owners** — emotional isolation → dogs as loyal companions → spend that "never stops" (clothes, food, vaccines, toys, even dog-translator apps).
+- General rule: **find where the emotion runs strongest** and a business sits there (emotion → willingness to pay).
+
+## UGC maps need real distribution (X 2026-09-23)
+- Personal: childhood Roblox/Fortnite maps he made did nothing while worse-looking maps print money.
+- In 2026: put a **clipping campaign** behind a Roblox game or Fortnite map — more players for pennies vs hoping hype/community lasts forever. Extends games-clipping thesis to creator-built maps/games.
+
+## Everyone is on social / excuse is dead (X 2026-09-24)
+- Reject "my audience isn’t on TikTok/Instagram" — in **2026 everyone is on social**, including people you’d never expect (one platform or five).
+- That objection is framed as a **dead excuse**; operators still saying it are behind. Prefer pushing distribution onto the platforms where attention actually lives over claiming niche audiences live offline.
+
+## Hollywood / TV marketing is behind on short-form (X 2026-09-26)
+- TV/movie marketing teams are framed as **braindead** relative to organic short-form: flop → "we projected too early"; rare breakout → confusion — while every recent explosion lived on **TikTok and Instagram**.
+- People share what they love; one organic TikTok can pull millions of views/shares/comments alone. A teenager gets this; eight-figure marketing departments often don't.
+- Prediction: at least one studio runs a proper **clipping campaign** behind a release, blows it up, and the rest copy. Prefer building an **organic short-form operation** over pouring everything into paid ads + influencers alone.
+
+## Comment planting / multiply view value (X 2026-09-25)
+- **Comments are the most underrated** sales/signup/user lever. After ~1k views, plant from another account: ask the product name, ask if anyone tested it, or drop a controversial take so people argue.
+- Every comment has value; used right they **multiply what each view is worth**. Extends existing comment-section conversion thesis (games "what game is this?") to general consumer/apps.
+
+## Real-money / gambling-niche game clipping (X 2026-09-25)
+- Case: real-money mobile game (gambling-adjacent). Creative play: make it look like a **fun game** while money stays **indirect** so platforms don't flag (flagging in that niche is brutal).
+- Result: thousands of videos → ~**4M views at ~$3 effective CPM** vs apps that often pay **~7×** that on paid ads.
+- After campaign budget ends, **pages stay up** — clippers leave them for weeks → ongoing free views/comments/downloads. Clipping is **THE way**; more games should implement it.
+
+## Broke vs rich (not B2C vs B2B) (X 2026-09-27)
+- Reselling clothes taught him consumers without money **never stop crying** (lower price, free shipping, tiny-tag refunds/sue threats). Moving to B2B looked different until the same asks appeared (guarantee results, 2× ROI, smaller starter package).
+- Frame: it is **not consumer vs business** — it is **broke vs rich**, and broke behaves the same at every level. Prefer selling buyers with money over assuming B2B alone fixes price sensitivity. Aligns with Hormozi-style sell-rich / hear-no-more without inventing his words.
+
+## Must-work / no soft landing (X 2026-09-27)
+- On "what if it doesn't work out": **It must** — otherwise the joke fallback is streaming gambling. Prefer forced commitment / no soft exit over contingency theater.
+
+## Viral is a format to reuse, not a one-hit wonder (X 2026-09-28)
+- Biggest mistake: treating a viral video as a one-and-done. Reuse the format; weeks later if nothing new hits as hard, **repost the same video with small changes** — can outperform the original. Cost ≈ 0; returns climb.
+
+## Dirty marketing / ego-callout comments (X 2026-09-29)
+- Get a bit **dirty** with marketing: use emotions to spike reactions, comments, and views.
+- Soft ego callouts in hooks work — trading-brand example opened clips with “since you clearly don’t know how to trade, here’s how I do it”; comments went feral; harder callouts amplify that.
+- Mechanism: hurt ego → people defend themselves by commenting → allies + arguers pile on → chaotic comment section the algorithm keeps pushing to more fragile-ego viewers. Extends comment-section leverage / planting thesis: manufacture outrage-as-engagement on purpose.
+
+## Trending audios multiply reach (X 2026-09-30)
+- One of the easiest reach multipliers: **use trending audios**. Platforms push them harder to grow the trend — you ride momentum already moving.
+- Tactic: look which sounds are performing for people in your **exact niche**, then use those. Pair with format-reuse / viral-is-not-one-hit.
+
+## Money doesn't fix character (X 2026-10-01)
+- Money does not fix being antisocial, insufferable, boring, or unpleasant — it just funds the same person. Feeling the same after "making xyz a month" is expected if identity/character didn't change. Pair with dirty-marketing / ego-callout register: blunt callouts over soft self-help.
