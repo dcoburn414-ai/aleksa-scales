@@ -156,3 +156,6 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 118. "someone agrees and backs them, someone disagrees and argues, and now you've got a chaotic comment section the algorithm can't stop pushing" — same
 
 119. "One of the easiest ways to multiply your video's reach is using trending audios" / "Every platform pushes them harder because it wants the trend to grow, so you're riding momentum that's already moving" / "All you do is look which sounds are performing for people in your exact niche" — X — https://x.com/aleksascales/status/2105354236599132218 (2026-09-30)
+
+## Exact quotes — money doesn't fix character (X 2026-10-01)
+120. "A lot of people believe money fixes everything" / "If you're an antisocial insufferable bum and you get money, you're just an antisocial insufferable bum with money now" — X — https://x.com/aleksascales/status/2105701273576341933
