@@ -159,3 +159,10 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 
 ## Money doesn't fix character (X 2026-10-01)
 - Money does not fix being antisocial, insufferable, boring, or unpleasant — it just funds the same person. Feeling the same after "making xyz a month" is expected if identity/character didn't change. Pair with dirty-marketing / ego-callout register: blunt callouts over soft self-help.
+
+## iGaming / casino organic distribution (X Article 2026-10-04 + posts 2026-10-03–05)
+- Claims **250M+ views/month** for one casino client via clipping, on feeds that ban casino content; Meta/Google block paid and regulation makes compliant paid slow — so the industry defaults to "hire a streamer and hope."
+- Streamers alone = **renting attention**: relevant only while live. Winners are in the feed every day in front of people who gamble. The regulatory wall is the opportunity: the same ban keeps every other casino out of organic, so nobody can buy their way in.
+- Two formats: **(1) logo campaign** — brand name/logo/promo code over already-viral entertainment content; CPMs he cites $0.05–$0.20; starts as cheap awareness and compounds into traffic and FTDs through repeated exposure (cites Gamdom). **(2) clipping campaign** — raw slots footage dies; mix the gambling into a few seconds of otherwise entertaining streamer content so it survives the feed (cites Shuffle; calls Duel's clipping operation the best running). Needs content worth watching, not just budget.
+- Even where paid ads are available, run it: paid stops when budget stops, **organic compounds**; every player is already scrolling social daily. For top-10 brands it's defense; for smaller well-capitalized brands it's the cheapest brand awareness. For iGaming "this isn't optional."
+- Posts: hiring streamers without a clipper network to clip them is a miss; casino campaign clips up to 37.7M views at ~$0.007 CPM; every iGaming player lives in short-form feeds. Bullish on AI-character/reaction plays when a team that makes content pairs with a team that distributes it — but famous-figure likeness is not long-term (legal exposure).
