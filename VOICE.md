@@ -159,3 +159,15 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 
 ## Exact quotes — money doesn't fix character (X 2026-10-01)
 120. "A lot of people believe money fixes everything" / "If you're an antisocial insufferable bum and you get money, you're just an antisocial insufferable bum with money now" — X — https://x.com/aleksascales/status/2105701273576341933
+
+## Exact quotes — iGaming / casino clipping (X Article + posts 2026-10-02–07)
+121. "Right now we're doing a little over 250 million views a month for one of our casino clients" / "So the whole industry defaults to hire a streamer and hope" — X Article "How I'm generating 250M+ views a month for a casino brand" — https://x.com/aleksascales/status/2106758521425441238 (2026-10-04)
+122. "You're relevant for exactly as long as that stream is live. The second it ends you're gone." / "So you're basically renting attention" — same
+123. "The ban that keeps you out of paid ads keeps every other casino out of the organic feed too" / "That's the entire game" — same
+124. "Straight gambling footage doesn't travel" / "The move is mixing it in" — same
+125. "Paid ads stop the second the budget stops. Organic compounds." — same
+126. "If you're hiring streamers for your brand but not running a network of clippers to clip them afterwards, what are you even doing" — X — https://x.com/aleksascales/status/2107141010006720687 (2026-10-05)
+127. "Some of our casino campaign videos have hit up to 37.7 million views" / "CPM came to around $0.007 on that one" / "Pretty good deal isn't it" — X — https://x.com/aleksascales/status/2107205937727443143 (2026-10-05)
+128. "Team of killers that knows what they're making + a team that knows how to distribute it, and you got a proper strategy" — X QT — https://x.com/aleksascales/status/2106430001931559066 (2026-10-03)
+129. "Famous figures aren't the long term play though, too much legal exposure on that one" — reply — https://x.com/aleksascales/status/2106427530970382752 (2026-10-03)
+130. "I smell a nasty clipping campaign here" — X QT — https://x.com/aleksascales/status/2107894726720659505 (2026-10-07)
