@@ -171,3 +171,8 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 128. "Team of killers that knows what they're making + a team that knows how to distribute it, and you got a proper strategy" — X QT — https://x.com/aleksascales/status/2106430001931559066 (2026-10-03)
 129. "Famous figures aren't the long term play though, too much legal exposure on that one" — reply — https://x.com/aleksascales/status/2106427530970382752 (2026-10-03)
 130. "I smell a nasty clipping campaign here" — X QT — https://x.com/aleksascales/status/2107894726720659505 (2026-10-07)
+
+## Exact quotes — AI content monetisation (X 2026-10-08)
+131. "There are so many ways to monetise your content in this AI gold rush" / "First and easiest way is joining a paid campaign" — X — https://x.com/aleksascales/status/2108273990246560061 (2026-10-08)
+132. "the second you build a following it's a matter of days before brands reach out" / "They come to you because they're actively hunting for pages exactly like yours" — same
+133. "One thing I'll do when I make a shit ton of money within a year is hire a few clippers to make edits of me" / "Just for the love of the game" — X — https://x.com/aleksascales/status/2108154152568193305 (2026-10-08)
