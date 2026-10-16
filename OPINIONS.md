@@ -171,3 +171,12 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - AI campaigns are the easiest content to get views on: everything is made with a prompt, so you can run near-infinite testing cheaply. Easiest money is joining a paid campaign (app watermark + CTA at the end).
 - Second path: build your own AI characters and run your own offer (an ebook/course on making AI characters, or a product the character sells directly).
 - Even if you're only chasing views, a following brings brands within days — watermark deals, custom content, bio mentions — because they're actively hunting for pages like yours.
+
+### From public writing (2026-10-16 incremental)
+- Early clipping-agency mistake: treating personal-brand creators as the only clients; most cannot pay without a guaranteed ROI (X 2026-10-09).
+- Birth-era luck: being born into the still-building internet economy is the one luck factor admitted; move from playing to building (X 2026-10-10).
+- CTA on good videos: go hard; a well-timed CTA does not kill emotion if the video is genuinely good (X 2026-10-11).
+- Clipper spend signal: when spend on clippers exceeds rent/cars/food combined, that is the tell (X 2026-10-12).
+- Demand manufacture: short-form repeated across many faces manufactures belief/demand; whoever controls the clips controls demand (X 2026-10-13).
+- Logo campaigns: slap brand logo/name/promo over entertainment content; sub-$0.10 CPMs enable absurd volume for awareness-driven niches like gambling (X 2026-10-14).
+- Volume conversion: meme/entertainment clips are not built as funnels, but millions of views still convert some buyers without a specific funnel (X 2026-10-16).

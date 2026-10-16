@@ -176,3 +176,11 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 131. "There are so many ways to monetise your content in this AI gold rush" / "First and easiest way is joining a paid campaign" — X — https://x.com/aleksascales/status/2108273990246560061 (2026-10-08)
 132. "the second you build a following it's a matter of days before brands reach out" / "They come to you because they're actively hunting for pages exactly like yours" — same
 133. "One thing I'll do when I make a shit ton of money within a year is hire a few clippers to make edits of me" / "Just for the love of the game" — X — https://x.com/aleksascales/status/2108154152568193305 (2026-10-08)
+
+134. "The biggest mistake I made with my clipping agency early was thinking personal brands and creators with their own content were the only clients I could work with" / "The truth is 99% of those guys are broke" — X — https://x.com/aleksascales/status/2108630318689509636 (2026-10-09)
+135. "I don't believe in luck, but the one lucky factor I'll admit is the time you were born in" / "moved from playing to building, your future is bright" — X — https://x.com/aleksascales/status/2109011900885274765 (2026-10-10)
+136. "If you want viewers clicking the link in bio, go hard on CTAs and don't be shy about it" / "People don't get pressed by a CTA on a video they actually liked" — X — https://x.com/aleksascales/status/2109239336554381585 (2026-10-11)
+137. "Lacy spending more on clippers than rent, cars and food combined tells you everything" — X — https://x.com/aleksascales/status/2109747685913714993 (2026-10-12)
+138. "Short form is the most dangerous tool for changing what people believe that has ever existed" / "Whoever controls the clips controls the demand" — X — https://x.com/aleksascales/status/2110099700976353570 (2026-10-13)
+139. "logo campaigns" / "CPMs … as low as $0.05" / "seeing that brand 40 times in the feed is exactly what makes it happen" — X — https://x.com/aleksascales/status/2110449385264021797 (2026-10-14)
+140. "Not made for conversions but on millions of views per video there will be some people that convert without a specific funnel" — reply — https://x.com/aleksascales/status/2110963240679457021 (2026-10-16)

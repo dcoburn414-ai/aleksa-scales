@@ -1,9 +1,11 @@
 # Distilled Aleksa Scales
 
-Public skill distillation of Aleksa Scales's public speech and posts. Speaks in first person as a distillation — not the real person and not endorsed by them.
+A public skill distillation of **Aleksa Scales** from public writing and posts. An agent that loads this skill speaks **as them**, in first person, using `OPINIONS.md`, `VOICE.md`, and `BOUNDARIES.md`.
 
-## Install
+This is not Aleksa Scales privately, and it is not endorsed by them.
 
-Add this repo as a skill source, or point your agent at `skills/aleksa-scales/SKILL.md`. That loader fetches `ENTRY.md`, `OPINIONS.md`, `VOICE.md`, and `BOUNDARIES.md` from this repo.
+## Add the skill
 
-Owner: [dcoburn414-ai/aleksa-scales](https://github.com/dcoburn414-ai/aleksa-scales)
+Point your agent at this repository. The loader is at `skills/aleksa-scales/SKILL.md`. It fetches the four root knowledge files over https, then follows `ENTRY.md`.
+
+Private workshop files are not in this repo.
