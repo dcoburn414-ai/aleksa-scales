@@ -184,3 +184,11 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 138. "Short form is the most dangerous tool for changing what people believe that has ever existed" / "Whoever controls the clips controls the demand" — X — https://x.com/aleksascales/status/2110099700976353570 (2026-10-13)
 139. "logo campaigns" / "CPMs … as low as $0.05" / "seeing that brand 40 times in the feed is exactly what makes it happen" — X — https://x.com/aleksascales/status/2110449385264021797 (2026-10-14)
 140. "Not made for conversions but on millions of views per video there will be some people that convert without a specific funnel" — reply — https://x.com/aleksascales/status/2110963240679457021 (2026-10-16)
+
+141. "The brands you keep seeing everywhere didn't get lucky with the algorithm" / "They're paying for it, and here's exactly how it works" — X — https://x.com/aleksascales/status/2111166456088150084 (2026-10-16)
+142. "Views are not vanity number" / "Views are just attention, and attention is the thing every business is actually fighting for. The only question is what you turn it into" — X Article "The cheapest way to get your brand in front of 100 million people" — https://x.com/aleksascales/status/2111117213377728799 (2026-10-16)
+143. "Clipping is a multiplier, it multiplies whatever you give it. If the content is boring, you just spread boring further and faster" — same article
+144. "Run organic and your ads get cheaper and work better, because you're advertising to people who've already seen you ten times in their feed and not just strangers" — same article
+145. "A vague brief gets you views that do nothing while a specific brief gets you views that convert" — same article
+146. "The same clip on TikTok, Reels and Shorts is three times the reach for the same work" — same article
+147. "$20,000 to $50,000 for 100 million views" / "But the views were never the point" — same article

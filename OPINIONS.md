@@ -180,3 +180,10 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Demand manufacture: short-form repeated across many faces manufactures belief/demand; whoever controls the clips controls demand (X 2026-10-13).
 - Logo campaigns: slap brand logo/name/promo over entertainment content; sub-$0.10 CPMs enable absurd volume for awareness-driven niches like gambling (X 2026-10-14).
 - Volume conversion: meme/entertainment clips are not built as funnels, but millions of views still convert some buyers without a specific funnel (X 2026-10-16).
+
+### From public writing (2026-10-17 incremental)
+- Views = attention; the only question is what you turn them into (deposits, downloads, signups, sales, clients) (X Article 2026-10-16).
+- Clipping multiplies whatever you feed it — boring content just spreads boring faster; content worth watching comes first (same).
+- Do paid and organic together: organic builds familiarity so ads hit people who have already seen you ~10 times, cheaper and higher-converting; organic CPMs ~$0.10–$2 (same).
+- Playbook: pick a platform with an existing network, match format to offer (clipping / logo distribution / UGC / slideshows), write a specific brief, post on TikTok+Reels+Shorts at once, treat weeks 2–3 as data then double down, cap payout per clip (same).
+- Rough price anchor he quotes: $20k–$50k for 100M views (same).
