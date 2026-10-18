@@ -192,3 +192,8 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 145. "A vague brief gets you views that do nothing while a specific brief gets you views that convert" — same article
 146. "The same clip on TikTok, Reels and Shorts is three times the reach for the same work" — same article
 147. "$20,000 to $50,000 for 100 million views" / "But the views were never the point" — same article
+
+148. "Almost every streamer you've seen on your FYP in the past two years got there the same way" / "An army of clippers getting paid per view to clip their streams and flood every platform with them" / "The streamers without that are the ones you never see" — X — https://x.com/aleksascales/status/2111549559000412353 (2026-10-17)
+149. "Everything in 2026 comes down to attention and who can capture and hold the most of it" — X — https://x.com/aleksascales/status/2111549559000412353 (2026-10-17)
+150. "Cheap and organic at a speed no other model can match because clipping is a multiplier" — X — https://x.com/aleksascales/status/2111486896295514145 (2026-10-17)
+151. "Please don't run paid ads without organic" / "Those winners become your ads" / "Simple as that" — X — https://x.com/aleksascales/status/2111415173814648871 (2026-10-17)

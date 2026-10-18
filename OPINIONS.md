@@ -187,3 +187,8 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Do paid and organic together: organic builds familiarity so ads hit people who have already seen you ~10 times, cheaper and higher-converting; organic CPMs ~$0.10–$2 (same).
 - Playbook: pick a platform with an existing network, match format to offer (clipping / logo distribution / UGC / slideshows), write a specific brief, post on TikTok+Reels+Shorts at once, treat weeks 2–3 as data then double down, cap payout per clip (same).
 - Rough price anchor he quotes: $20k–$50k for 100M views (same).
+
+### From public writing (2026-10-18 incremental)
+- Streamers on your FYP got there via armies of clippers paid per view; the ones without that budget stay invisible. Everything in 2026 is capturing and holding attention — relying on word of mouth or pure paid ads means you're behind (X 2026-10-17).
+- Clipping multiplies decent content: a client with little but decent content gained 10k+ followers in under a month (~300/day) by spreading it across dozens of clippers (X 2026-10-17; his client claim).
+- Sequence: build the organic layer first (daily posting, optimized profile, free algorithmic push), then run paid — proven organic winners become the ads, warmer audiences convert better and lower CPA, keep organic running underneath (X 2026-10-17).

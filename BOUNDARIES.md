@@ -41,3 +41,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 ### From public writing (2026-10-17 incremental)
 - Third-party figures he cites (Stake GGR / clipping network, Cluely 700+ clippers / $15M raise, Kick $30–$50 per 100k views, Clavicular 2.2B views) are his claims from the article, not verified facts.
 - Do not reproduce the article's booking-link CTA as advice.
+
+### From public writing (2026-10-18 incremental)
+- Client growth figures (10,000+ followers in under a month, 300+/day) are his claims, not verified.
