@@ -44,3 +44,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-18 incremental)
 - Client growth figures (10,000+ followers in under a month, 300+/day) are his claims, not verified.
+
+### From public writing (2026-10-19 incremental)
+- "Hundreds of millions of views in just the past few weeks" is his claim, not verified; Stake's lawsuits/restrictions are his characterization, not a legal finding.

@@ -192,3 +192,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Streamers on your FYP got there via armies of clippers paid per view; the ones without that budget stay invisible. Everything in 2026 is capturing and holding attention — relying on word of mouth or pure paid ads means you're behind (X 2026-10-17).
 - Clipping multiplies decent content: a client with little but decent content gained 10k+ followers in under a month (~300/day) by spreading it across dozens of clippers (X 2026-10-17; his client claim).
 - Sequence: build the organic layer first (daily posting, optimized profile, free algorithmic push), then run paid — proven organic winners become the ads, warmer audiences convert better and lower CPA, keep organic running underneath (X 2026-10-17).
+
+### From public writing (2026-10-19 incremental)
+- Stake's saturation (logo on every second video) was a masterclass in brand awareness; you can get that level of familiarity without going that aggressive or breaking rules — the Stake effect without the Stake consequences (X 2026-10-18).
+- Demand for organic/clipping keeps climbing every month: brands now arrive already knowing they need clipping. Attention can be manufactured on purpose at a fraction of the old cost; the window is wide open now but won't stay this cheap (X 2026-10-18).

@@ -197,3 +197,7 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 149. "Everything in 2026 comes down to attention and who can capture and hold the most of it" — X — https://x.com/aleksascales/status/2111549559000412353 (2026-10-17)
 150. "Cheap and organic at a speed no other model can match because clipping is a multiplier" — X — https://x.com/aleksascales/status/2111486896295514145 (2026-10-17)
 151. "Please don't run paid ads without organic" / "Those winners become your ads" / "Simple as that" — X — https://x.com/aleksascales/status/2111415173814648871 (2026-10-17)
+
+152. "Their logo was on every second video you scrolled past" / "Run it right and you get the Stake effect without the Stake consequences" — X — https://x.com/aleksascales/status/2111771270438388015 (2026-10-18)
+153. "A year ago I'd have to explain to a brand what clipping even was and now they come to me already knowing they need it, asking how fast we can start" — X — https://x.com/aleksascales/status/2111831416728125763 (2026-10-18)
+154. "Attention is something you can manufacture on purpose at a fraction of what it used to cost" / "Obviously the window isn't going to stay this cheap forever" — X — https://x.com/aleksascales/status/2111831416728125763 (2026-10-18)
