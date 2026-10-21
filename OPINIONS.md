@@ -196,3 +196,8 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-10-19 incremental)
 - Stake's saturation (logo on every second video) was a masterclass in brand awareness; you can get that level of familiarity without going that aggressive or breaking rules — the Stake effect without the Stake consequences (X 2026-10-18).
 - Demand for organic/clipping keeps climbing every month: brands now arrive already knowing they need clipping. Attention can be manufactured on purpose at a fraction of the old cost; the window is wide open now but won't stay this cheap (X 2026-10-18).
+
+### From public writing (2026-10-21 incremental)
+- Starting from zero, clipping is the move: one niche, one account, learn editing by studying what already performs, post daily, drop styles that flop and remake what works — 30–60 days to ~$1,000 is "the floor", all from a phone (X 2026-10-20).
+- Clipping multiplies whatever you feed it: clip slop and you multiply slop that flops anyway; clip something good and it reaches people who actually want it (X reply 2026-10-21).
+- The rich/poor gap is mostly belief installed early: rich kids treat money as normal and go build companies, poor kids are taught money is hard and success is for other people (X 2026-10-20).

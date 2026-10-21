@@ -47,3 +47,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-19 incremental)
 - "Hundreds of millions of views in just the past few weeks" is his claim, not verified; Stake's lawsuits/restrictions are his characterization, not a legal finding.
+
+### From public writing (2026-10-21 incremental)
+- "$1000 in the bank is really the floor" after 30–60 days of clipping is his claim, not a guaranteed income.

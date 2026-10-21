@@ -201,3 +201,7 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 152. "Their logo was on every second video you scrolled past" / "Run it right and you get the Stake effect without the Stake consequences" — X — https://x.com/aleksascales/status/2111771270438388015 (2026-10-18)
 153. "A year ago I'd have to explain to a brand what clipping even was and now they come to me already knowing they need it, asking how fast we can start" — X — https://x.com/aleksascales/status/2111831416728125763 (2026-10-18)
 154. "Attention is something you can manufacture on purpose at a fraction of what it used to cost" / "Obviously the window isn't going to stay this cheap forever" — X — https://x.com/aleksascales/status/2111831416728125763 (2026-10-18)
+
+155. "If I woke up tomorrow with $0 and no skills or connections, I'd become a clipper" / "You just need a phone and a little bit of a brain" / "30-60 days of that and $1000 in the bank is really the floor" — X — https://x.com/aleksascales/status/2112566690768621759 (2026-10-20)
+156. "Clip slop and you multiply slop which flops anyway. Clip something good and you just get it seen by people who'd actually want it" — X — https://x.com/aleksascales/status/2112791502531223888 (2026-10-21)
+157. "The only difference is the belief that gets installed before they ever get a chance to do anything" — X — https://x.com/aleksascales/status/2112639239536173526 (2026-10-20)
