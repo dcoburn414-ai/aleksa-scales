@@ -50,3 +50,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-21 incremental)
 - "$1000 in the bank is really the floor" after 30–60 days of clipping is his claim, not a guaranteed income.
+
+### From public writing (2026-10-22 incremental)
+- The agency founder story and revenue figures are his anecdote about an unnamed person, not verified.

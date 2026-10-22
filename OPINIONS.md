@@ -201,3 +201,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Starting from zero, clipping is the move: one niche, one account, learn editing by studying what already performs, post daily, drop styles that flop and remake what works — 30–60 days to ~$1,000 is "the floor", all from a phone (X 2026-10-20).
 - Clipping multiplies whatever you feed it: clip slop and you multiply slop that flops anyway; clip something good and it reaches people who actually want it (X reply 2026-10-21).
 - The rich/poor gap is mostly belief installed early: rich kids treat money as normal and go build companies, poor kids are taught money is hard and success is for other people (X 2026-10-20).
+
+### From public writing (2026-10-22 incremental)
+- Clipping flipped from "stealing" to a paid service: the creators who hated reposts now pay others to post their content on their own pages for views and reach — incentives reshape perspectives (X 2026-10-21).
+- Study other people's mistakes and losses, not just their wins: an agency founder he worked under got comfortable (optimising his dating funnel) right as the agency went $10K→$50K+/mo and was on track for $100K — it plateaued and declined. Don't coast in the most crucial stage of scaling (X 2026-10-21).

@@ -205,3 +205,6 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 155. "If I woke up tomorrow with $0 and no skills or connections, I'd become a clipper" / "You just need a phone and a little bit of a brain" / "30-60 days of that and $1000 in the bank is really the floor" — X — https://x.com/aleksascales/status/2112566690768621759 (2026-10-20)
 156. "Clip slop and you multiply slop which flops anyway. Clip something good and you just get it seen by people who'd actually want it" — X — https://x.com/aleksascales/status/2112791502531223888 (2026-10-21)
 157. "The only difference is the belief that gets installed before they ever get a chance to do anything" — X — https://x.com/aleksascales/status/2112639239536173526 (2026-10-20)
+
+158. "A few years ago, using someone's content to grab attention was considered stealing" / "Crazy how incentives reshape perspectives" — X — https://x.com/aleksascales/status/2112978726245871949 (2026-10-21)
+159. "But the most underrated way to learn is by studying their mistakes and losses" / "So now you know what NOT to do when scaling a business" — X — https://x.com/aleksascales/status/2112905745867919414 (2026-10-21)
