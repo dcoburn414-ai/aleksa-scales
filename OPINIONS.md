@@ -205,3 +205,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-10-22 incremental)
 - Clipping flipped from "stealing" to a paid service: the creators who hated reposts now pay others to post their content on their own pages for views and reach — incentives reshape perspectives (X 2026-10-21).
 - Study other people's mistakes and losses, not just their wins: an agency founder he worked under got comfortable (optimising his dating funnel) right as the agency went $10K→$50K+/mo and was on track for $100K — it plateaued and declined. Don't coast in the most crucial stage of scaling (X 2026-10-21).
+
+### From public writing (2026-10-23 incremental)
+- Sell the outcome, not the deliverables: however much you pack into an offer, people care about one thing — what they'll get out of it and where they'll be when you're done, not your list of 10 deliverables (X 2026-10-22).
+- Pokes at clipping-agency buyers who shop dozens of agencies just to compare prices and deliverables (X 2026-10-22).

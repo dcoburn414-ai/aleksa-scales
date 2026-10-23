@@ -208,3 +208,6 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 
 158. "A few years ago, using someone's content to grab attention was considered stealing" / "Crazy how incentives reshape perspectives" — X — https://x.com/aleksascales/status/2112978726245871949 (2026-10-21)
 159. "But the most underrated way to learn is by studying their mistakes and losses" / "So now you know what NOT to do when scaling a business" — X — https://x.com/aleksascales/status/2112905745867919414 (2026-10-21)
+
+160. "The offers that sell the best are always the ones selling outcomes, not explaining a service that nobody really cares about" / "Sell" / "Them" / "The" / "Outcome" — X — https://x.com/aleksascales/status/2113370558016676142 (2026-10-22)
+161. "Hey, yeah, you're the 26th clipping agency we're talking to. We just wanted to compare prices, deliverables, and see what exactly you guys can do" — X — https://x.com/aleksascales/status/2113277193073922092 (2026-10-22)
