@@ -211,3 +211,6 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 
 160. "The offers that sell the best are always the ones selling outcomes, not explaining a service that nobody really cares about" / "Sell" / "Them" / "The" / "Outcome" — X — https://x.com/aleksascales/status/2113370558016676142 (2026-10-22)
 161. "Hey, yeah, you're the 26th clipping agency we're talking to. We just wanted to compare prices, deliverables, and see what exactly you guys can do" — X — https://x.com/aleksascales/status/2113277193073922092 (2026-10-22)
+
+162. "Please don't launch a clipping campaign if your content is bad" / "You'll just waste money" — X — https://x.com/aleksascales/status/2113648640845549922 (2026-10-23)
+163. "Mostly it's just him talking straight into a camera and it's outperforming basically everyone" — X — https://x.com/aleksascales/status/2113703502408978554 (2026-10-23)

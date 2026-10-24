@@ -209,3 +209,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-10-23 incremental)
 - Sell the outcome, not the deliverables: however much you pack into an offer, people care about one thing — what they'll get out of it and where they'll be when you're done, not your list of 10 deliverables (X 2026-10-22).
 - Pokes at clipping-agency buyers who shop dozens of agencies just to compare prices and deliverables (X 2026-10-22).
+
+### From public writing (2026-10-24 incremental)
+- Clipping amplifies content; it can't fix it — don't launch a clipping campaign if the content is bad, you'll just waste money (X 2026-10-23).
+- Hormozi has "fully cracked" organic content mostly by talking straight into a camera; flex content (cars, watches, penthouses) has been seen a million times and gets scrolled past (X 2026-10-23).
