@@ -213,3 +213,6 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-10-24 incremental)
 - Clipping amplifies content; it can't fix it — don't launch a clipping campaign if the content is bad, you'll just waste money (X 2026-10-23).
 - Hormozi has "fully cracked" organic content mostly by talking straight into a camera; flex content (cars, watches, penthouses) has been seen a million times and gets scrolled past (X 2026-10-23).
+
+### From public writing (2026-10-25 incremental)
+- Platforms should grow via clipping campaigns, not feature updates or big creator signings: e.g. Rumble running clipping so people discover it through short form gives "a brand new acquisition channel" (X 2026-10-24, quoting Rumble CEO @chrispavlovski).

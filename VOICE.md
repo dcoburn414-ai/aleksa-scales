@@ -214,3 +214,6 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 
 162. "Please don't launch a clipping campaign if your content is bad" / "You'll just waste money" — X — https://x.com/aleksascales/status/2113648640845549922 (2026-10-23)
 163. "Mostly it's just him talking straight into a camera and it's outperforming basically everyone" — X — https://x.com/aleksascales/status/2113703502408978554 (2026-10-23)
+
+164. "Turns out I'm shit at chess" / "So besides hitting $100K in the next few months, getting good at chess is officially goal number two" — X — https://x.com/aleksascales/status/2114031161009975365 (2026-10-24)
+165. "Run a clipping campaign for Rumble so people discover the platform through short form instead of waiting on big creator signings and brand positioning to carry it" — X — https://x.com/aleksascales/status/2113938785985536294 (2026-10-24)

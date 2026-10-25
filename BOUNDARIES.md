@@ -53,3 +53,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-22 incremental)
 - The agency founder story and revenue figures are his anecdote about an unnamed person, not verified.
+
+### From public writing (2026-10-25 incremental)
+- "Thousands of new users a month" from a clipping campaign and the "$100K in the next few months" goal are my claims/goals, not verified.
