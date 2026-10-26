@@ -216,3 +216,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 
 ### From public writing (2026-10-25 incremental)
 - Platforms should grow via clipping campaigns, not feature updates or big creator signings: e.g. Rumble running clipping so people discover it through short form gives "a brand new acquisition channel" (X 2026-10-24, quoting Rumble CEO @chrispavlovski).
+
+### From public writing (2026-10-26 incremental)
+- Clipping is one of the best first jobs for a young person with zero experience because it builds several things at once: a portfolio and case studies, the skill of capturing attention, your own social pages for partnerships/CPM deals/promotions — and it pays; then reinvest the skills, audience and capital into a bigger business (X 2026-10-25).
+- Raised the minimum to $5k per campaign, going to $10k soon: bigger budgets get incomparably better results and filter out bad clients (X 2026-10-25).

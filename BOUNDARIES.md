@@ -56,3 +56,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-25 incremental)
 - "Thousands of new users a month" from a clipping campaign and the "$100K in the next few months" goal are my claims/goals, not verified.
+
+### From public writing (2026-10-26 incremental)
+- "Making millions by 18/19" and the $5k/$10k campaign minimums are my claims/pricing at the time, not verified.

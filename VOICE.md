@@ -217,3 +217,6 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 
 164. "Turns out I'm shit at chess" / "So besides hitting $100K in the next few months, getting good at chess is officially goal number two" — X — https://x.com/aleksascales/status/2114031161009975365 (2026-10-24)
 165. "Run a clipping campaign for Rumble so people discover the platform through short form instead of waiting on big creator signings and brand positioning to carry it" — X — https://x.com/aleksascales/status/2113938785985536294 (2026-10-24)
+
+166. "I'm not saying this just because it's my niche, but I'm dead serious when I say that being a clipper is one of the best jobs in the world for a young person with zero experience" / "Making millions by 18/19 is a very doable with a start like that" — X — https://x.com/aleksascales/status/2114362343790354853 (2026-10-25)
+167. "Funny to remember the times I was trying to close $1k campaigns just to get someone on board" — X — https://x.com/aleksascales/status/2114435323987968426 (2026-10-25)
