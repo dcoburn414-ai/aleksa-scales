@@ -59,3 +59,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-26 incremental)
 - "Making millions by 18/19" and the $5k/$10k campaign minimums are my claims/pricing at the time, not verified.
+
+### From public writing (2026-10-27 incremental)
+- Community income figures ($1k–$10k+/month, $30k+/month, $0→$1k in 13 days) are my claims, not verified. The Affiliate Network platform and Discord community links are my own promotion.

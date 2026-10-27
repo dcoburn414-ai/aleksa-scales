@@ -220,3 +220,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-10-26 incremental)
 - Clipping is one of the best first jobs for a young person with zero experience because it builds several things at once: a portfolio and case studies, the skill of capturing attention, your own social pages for partnerships/CPM deals/promotions — and it pays; then reinvest the skills, audience and capital into a bigger business (X 2026-10-25).
 - Raised the minimum to $5k per campaign, going to $10k soon: bigger budgets get incomparably better results and filter out bad clients (X 2026-10-25).
+
+### From public writing (2026-10-27 incremental)
+- Clipping playbook (X article 'How to make $10k/month as a clipper', 2026-10-26): start with streamers or big personal brands — their content is already built to go viral; you don't need to be an editing genius, copy the structure of what's already performing with a clean edit and a good hook; a $0.50–$2 CPM is fine; campaigns usually require tier-1 (mainly US) views or they're rejected.
+- Realistic ramp: month one is learning (a few hundred up to ~$1k on 1–2 accounts per platform), month two ~$3–5k, then $10k/month by repetition; $15–20k+ needs multiple campaigns and phones; past that, open an agency and take a cut of a clipper network — that's when it becomes a business (X article 2026-10-26).

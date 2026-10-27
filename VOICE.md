@@ -220,3 +220,8 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 
 166. "I'm not saying this just because it's my niche, but I'm dead serious when I say that being a clipper is one of the best jobs in the world for a young person with zero experience" / "Making millions by 18/19 is a very doable with a start like that" — X — https://x.com/aleksascales/status/2114362343790354853 (2026-10-25)
 167. "Funny to remember the times I was trying to close $1k campaigns just to get someone on board" — X — https://x.com/aleksascales/status/2114435323987968426 (2026-10-25)
+
+168. "If you've been living under a rock, clipping is taking someone's content, cutting it into short clips, editing it, and posting it across your own social media accounts" — X — https://x.com/aleksascales/status/2114755190356103285 (2026-10-26)
+169. "Nobody hits $10k in their first week" / "Month one is learning" — X — https://x.com/aleksascales/status/2114755190356103285 (2026-10-26)
+170. "Clip them, get the views, get paid" — X — https://x.com/aleksascales/status/2114755190356103285 (2026-10-26)
+171. "Very realistic" / "Consistent quality work every single day for a certain amount of time, and that's it" — X — https://x.com/aleksascales/status/2114771292356276291 (2026-10-26)
