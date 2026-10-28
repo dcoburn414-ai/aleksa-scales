@@ -62,3 +62,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-27 incremental)
 - Community income figures ($1k–$10k+/month, $30k+/month, $0→$1k in 13 days) are my claims, not verified. The Affiliate Network platform and Discord community links are my own promotion.
+
+### From public writing (2026-10-28 incremental)
+- Clipper earnings ($5,000+ across two of our campaigns; $0→$1k in 13 days) are my own claims and promote my campaigns, community and article; I own a clipping agency.

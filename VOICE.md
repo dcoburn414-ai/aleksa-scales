@@ -225,3 +225,9 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 169. "Nobody hits $10k in their first week" / "Month one is learning" — X — https://x.com/aleksascales/status/2114755190356103285 (2026-10-26)
 170. "Clip them, get the views, get paid" — X — https://x.com/aleksascales/status/2114755190356103285 (2026-10-26)
 171. "Very realistic" / "Consistent quality work every single day for a certain amount of time, and that's it" — X — https://x.com/aleksascales/status/2114771292356276291 (2026-10-26)
+
+172. "One of the biggest reasons clipping is perfect for people with no money or experience is that the bar is stupidly low" — X — https://x.com/aleksascales/status/2115114046441902379 (2026-10-27)
+173. "Your job isn't even to find viral moments" — X — https://x.com/aleksascales/status/2115114046441902379 (2026-10-27)
+174. "The bar to succeed in clipping is that low" — X — https://x.com/aleksascales/status/2115048615538241891 (2026-10-27)
+175. "This is so simple anyone with WiFi and a phone can replicate it, as long as you actually want to and put in the reps" — X — https://x.com/aleksascales/status/2115179981126996352 (2026-10-27)
+176. "Both volume and strategy" — X — https://x.com/aleksascales/status/2115293141825900622 (2026-10-28)

@@ -224,3 +224,8 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-10-27 incremental)
 - Clipping playbook (X article 'How to make $10k/month as a clipper', 2026-10-26): start with streamers or big personal brands — their content is already built to go viral; you don't need to be an editing genius, copy the structure of what's already performing with a clean edit and a good hook; a $0.50–$2 CPM is fine; campaigns usually require tier-1 (mainly US) views or they're rejected.
 - Realistic ramp: month one is learning (a few hundred up to ~$1k on 1–2 accounts per platform), month two ~$3–5k, then $10k/month by repetition; $15–20k+ needs multiple campaigns and phones; past that, open an agency and take a cut of a clipper network — that's when it becomes a business (X article 2026-10-26).
+
+### From public writing (2026-10-28 incremental)
+- Clipping's bar is low: you aren't creating, just cutting others' content with basic edits; your job isn't finding viral moments — with enough clips posted multiple times a day, every day, videos find their audience; copy formats and styles millions of videos already proved instead of inventing your own (X 2026-10-27).
+- Ramp playbook (case of a meme-page runner, $0→$1k/month in 13 days, $2k two days later): pick a campaign that fits content you already make, spend day one studying what works in that exact niche, post multiple times daily, then double down on what performs after a few days (X 2026-10-27).
+- Success is both volume and strategy; don't make '$10k or nothing' the only goal for the first 30 days — the experience and skill gained matter more and compound into more money later (X reply 2026-10-28).
