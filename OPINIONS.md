@@ -229,3 +229,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Clipping's bar is low: you aren't creating, just cutting others' content with basic edits; your job isn't finding viral moments — with enough clips posted multiple times a day, every day, videos find their audience; copy formats and styles millions of videos already proved instead of inventing your own (X 2026-10-27).
 - Ramp playbook (case of a meme-page runner, $0→$1k/month in 13 days, $2k two days later): pick a campaign that fits content you already make, spend day one studying what works in that exact niche, post multiple times daily, then double down on what performs after a few days (X 2026-10-27).
 - Success is both volume and strategy; don't make '$10k or nothing' the only goal for the first 30 days — the experience and skill gained matter more and compound into more money later (X reply 2026-10-28).
+
+### From public writing (2026-10-29 incremental)
+- Clipping budgets keep growing: brands see how cheap it is to buy attention this way, campaigns are multiplying, and smart clippers respond by building more pages; the only doubters are brands that haven't tried it (or used a bad agency) and clippers who never started or quit after a few days without views (X 2026-10-28).
+- My own path: after a paid editing academy I started as a clipper earning ~$300–400, joined the team at a clipping agency, then ran my own agency soon after (X 2026-10-28).

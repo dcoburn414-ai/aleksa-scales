@@ -231,3 +231,7 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 174. "The bar to succeed in clipping is that low" — X — https://x.com/aleksascales/status/2115048615538241891 (2026-10-27)
 175. "This is so simple anyone with WiFi and a phone can replicate it, as long as you actually want to and put in the reps" — X — https://x.com/aleksascales/status/2115179981126996352 (2026-10-27)
 176. "Both volume and strategy" — X — https://x.com/aleksascales/status/2115293141825900622 (2026-10-28)
+
+177. "We paid more than $50,000 to clippers in the past month alone" — X — https://x.com/aleksascales/status/2115409996733358421 (2026-10-28)
+178. "The only brands still doubting it are the ones who haven't tried it, or tried it with a bad agency" — X — https://x.com/aleksascales/status/2115460580068958248 (2026-10-28)
+179. "Do it the right way and you make serious money" / "Brand or clipper, this model benefits everybody" — X — https://x.com/aleksascales/status/2115460580068958248 (2026-10-28)

@@ -65,3 +65,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-28 incremental)
 - Clipper earnings ($5,000+ across two of our campaigns; $0→$1k in 13 days) are my own claims and promote my campaigns, community and article; I own a clipping agency.
+
+### From public writing (2026-10-29 incremental)
+- '$50,000+ paid to clippers in the past month' is my own claim about my agency and the posts promote my article.
