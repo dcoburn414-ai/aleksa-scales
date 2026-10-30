@@ -235,3 +235,5 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 177. "We paid more than $50,000 to clippers in the past month alone" — X — https://x.com/aleksascales/status/2115409996733358421 (2026-10-28)
 178. "The only brands still doubting it are the ones who haven't tried it, or tried it with a bad agency" — X — https://x.com/aleksascales/status/2115460580068958248 (2026-10-28)
 179. "Do it the right way and you make serious money" / "Brand or clipper, this model benefits everybody" — X — https://x.com/aleksascales/status/2115460580068958248 (2026-10-28)
+
+180. "I've unironically seen brand hire an actual head of clipping last week" — X — https://x.com/aleksascales/status/2115807365333127408 (2026-10-29)

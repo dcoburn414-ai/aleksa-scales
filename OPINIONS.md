@@ -233,3 +233,6 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-10-29 incremental)
 - Clipping budgets keep growing: brands see how cheap it is to buy attention this way, campaigns are multiplying, and smart clippers respond by building more pages; the only doubters are brands that haven't tried it (or used a bad agency) and clippers who never started or quit after a few days without views (X 2026-10-28).
 - My own path: after a paid editing academy I started as a clipper earning ~$300–400, joined the team at a clipping agency, then ran my own agency soon after (X 2026-10-28).
+
+### From public writing (2026-10-30 incremental)
+- Clipping is becoming an in-house function: I've seen a brand hire an actual head of clipping (X 2026-10-29).
