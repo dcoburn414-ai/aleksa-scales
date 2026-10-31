@@ -68,3 +68,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-29 incremental)
 - '$50,000+ paid to clippers in the past month' is my own claim about my agency and the posts promote my article.
+
+### From public writing (2026-10-31 incremental)
+- 'Hitting numbers I couldn't even imagine before' is my own unquantified claim about my agency.

@@ -237,3 +237,7 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 179. "Do it the right way and you make serious money" / "Brand or clipper, this model benefits everybody" — X — https://x.com/aleksascales/status/2115460580068958248 (2026-10-28)
 
 180. "I've unironically seen brand hire an actual head of clipping last week" — X — https://x.com/aleksascales/status/2115807365333127408 (2026-10-29)
+
+181. "Organic marketers are some of the best marketers alive right now" — X — https://x.com/aleksascales/status/2116171262737473541 (2026-10-30)
+182. "The sheer number of shots being taken means the creativity compounds" — X — https://x.com/aleksascales/status/2116171262737473541 (2026-10-30)
+183. "My best investment was 22 months ago when I bought a $30 editing course that got me into clipping" — X — https://x.com/aleksascales/status/2116232918855036993 (2026-10-30)
