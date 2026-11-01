@@ -240,3 +240,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-10-31 incremental)
 - Organic marketers are some of the best marketers alive: posting at volume surfaces formats that pull millions of views for basically nothing and angles a brand would've paid a fortune to find through paid testing. The number of shots compounds the creativity, and this is the best window there's ever been — cheap to test, wide open, faster than traditional marketing (X 2026-10-30).
 - My best investment was a $30 editing course 22 months ago that got me into clipping, which led to opening my own agency (X 2026-10-30).
+
+### From public writing (2026-11-01 incremental)
+- How a clipping campaign works: a brand has content it can't post everywhere itself, so it pays clippers who cut, edit and post short clips on their own accounts; the brand pays a small amount per 1000 views and gets seen everywhere, which feeds its main goal (awareness, followers, sales). The clippers get paid, everybody's happy (X 2026-10-31).
+- Account issues (reach/suppression) don't show up if you post quality content on a properly warmed-up account (X reply 2026-11-01).

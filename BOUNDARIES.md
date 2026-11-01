@@ -71,3 +71,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-31 incremental)
 - 'Hitting numbers I couldn't even imagine before' is my own unquantified claim about my agency.
+
+### From public writing (2026-11-01 incremental)
+- 'Billions of views across every niche' is my own unquantified claim; the 'book a call' link promotes my agency.

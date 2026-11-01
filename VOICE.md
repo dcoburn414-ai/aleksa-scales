@@ -241,3 +241,8 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 181. "Organic marketers are some of the best marketers alive right now" — X — https://x.com/aleksascales/status/2116171262737473541 (2026-10-30)
 182. "The sheer number of shots being taken means the creativity compounds" — X — https://x.com/aleksascales/status/2116171262737473541 (2026-10-30)
 183. "My best investment was 22 months ago when I bought a $30 editing course that got me into clipping" — X — https://x.com/aleksascales/status/2116232918855036993 (2026-10-30)
+
+184. "How a clipping campaign actually works" — X — https://x.com/aleksascales/status/2116607638134014380 (2026-10-31)
+185. "Every clip gets views, and the brand pays a small amount per 1000 views" — X — https://x.com/aleksascales/status/2116607638134014380 (2026-10-31)
+186. "The clippers get paid" / "Everybody happy" — X — https://x.com/aleksascales/status/2116607638134014380 (2026-10-31)
+187. "As long as you're posting quality content and your account is properly warmed up, you won't face that issue" — X — https://x.com/aleksascales/status/2116813523586330887 (2026-11-01)
