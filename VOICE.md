@@ -246,3 +246,8 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 185. "Every clip gets views, and the brand pays a small amount per 1000 views" — X — https://x.com/aleksascales/status/2116607638134014380 (2026-10-31)
 186. "The clippers get paid" / "Everybody happy" — X — https://x.com/aleksascales/status/2116607638134014380 (2026-10-31)
 187. "As long as you're posting quality content and your account is properly warmed up, you won't face that issue" — X — https://x.com/aleksascales/status/2116813523586330887 (2026-11-01)
+
+188. "EVERY video you post needs reality to beat the expectation you set" — X — https://x.com/aleksascales/status/2116913654499287195 (2026-11-01)
+189. "Set the bar high and actually deliver on it, people stay glued and the algorithm pushes you" — X — https://x.com/aleksascales/status/2116913654499287195 (2026-11-01)
+190. "My second client paid me $3000" — X — https://x.com/aleksascales/status/2116970781032780155 (2026-11-01)
+191. "We did it in 3 weeks" / "Nothing compares to the work you put out when you're actually hungry and you know you have no choice but to" — X — https://x.com/aleksascales/status/2116970781032780155 (2026-11-01)

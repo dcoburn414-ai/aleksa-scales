@@ -74,3 +74,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-11-01 incremental)
 - 'Billions of views across every niche' is my own unquantified claim; the 'book a call' link promotes my agency.
+
+### From public writing (2026-11-02 incremental)
+- The $3000 / 10,000-followers-in-3-weeks client story is my own unverified claim.

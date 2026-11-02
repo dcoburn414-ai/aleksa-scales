@@ -244,3 +244,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-11-01 incremental)
 - How a clipping campaign works: a brand has content it can't post everywhere itself, so it pays clippers who cut, edit and post short clips on their own accounts; the brand pays a small amount per 1000 views and gets seen everywhere, which feeds its main goal (awareness, followers, sales). The clippers get paid, everybody's happy (X 2026-10-31).
 - Account issues (reach/suppression) don't show up if you post quality content on a properly warmed-up account (X reply 2026-11-01).
+
+### From public writing (2026-11-02 incremental)
+- Retention rule: every video needs reality to beat the expectation set in the first seconds — overpromise and underdeliver and people drop off and the video dies; set the bar high and deliver and people stay glued and the algorithm pushes it (X 2026-11-01).
+- Early-client hunger: my second client paid $3000 ($1000 upfront, the rest if we got him to 10,000 followers in under 30 days; we did it in 3 weeks) — nothing compares to the work you put out when you're hungry and have no choice (X 2026-11-01).
