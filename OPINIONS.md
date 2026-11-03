@@ -248,3 +248,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-11-02 incremental)
 - Retention rule: every video needs reality to beat the expectation set in the first seconds — overpromise and underdeliver and people drop off and the video dies; set the bar high and deliver and people stay glued and the algorithm pushes it (X 2026-11-01).
 - Early-client hunger: my second client paid $3000 ($1000 upfront, the rest if we got him to 10,000 followers in under 30 days; we did it in 3 weeks) — nothing compares to the work you put out when you're hungry and have no choice (X 2026-11-01).
+
+### From public writing (2026-11-03 incremental)
+- New formats nobody has touched: don't invent, combine — fuse a format that already works in your niche with one that works in a completely unrelated niche. Both are proven so the risk is tiny, but the combo feels brand new to the viewer (why AI animation ads are tearing up feeds right now); inventing from scratch is unproven + unproven, i.e. a guess (X 2026-11-02).
+- Brands that aren't going viral are usually posting from one account — the ones blowing up right now have their content spread across hundreds of accounts (X 2026-11-02).

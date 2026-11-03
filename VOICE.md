@@ -251,3 +251,9 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 189. "Set the bar high and actually deliver on it, people stay glued and the algorithm pushes you" — X — https://x.com/aleksascales/status/2116913654499287195 (2026-11-01)
 190. "My second client paid me $3000" — X — https://x.com/aleksascales/status/2116970781032780155 (2026-11-01)
 191. "We did it in 3 weeks" / "Nothing compares to the work you put out when you're actually hungry and you know you have no choice but to" — X — https://x.com/aleksascales/status/2116970781032780155 (2026-11-01)
+
+192. "You combine them instead of inventing them" — X — https://x.com/aleksascales/status/2117335433785016633 (2026-11-02)
+193. "New enough to stop the scroll and familiar enough to actually work" — X — https://x.com/aleksascales/status/2117335433785016633 (2026-11-02)
+194. "Most people burn months trying to invent a format from scratch and it flops because unproven + unproven is just a guess" — X — https://x.com/aleksascales/status/2117335433785016633 (2026-11-02)
+195. "The gap between those two is where your next format is hiding" — X — https://x.com/aleksascales/status/2117335433785016633 (2026-11-02)
+196. ""Why is my brand not going viral yet?"" / "Because you're posting from 1 account" — X — https://x.com/aleksascales/status/2117231247063925029 (2026-11-02)
