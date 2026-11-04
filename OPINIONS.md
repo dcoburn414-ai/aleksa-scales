@@ -252,3 +252,6 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-11-03 incremental)
 - New formats nobody has touched: don't invent, combine — fuse a format that already works in your niche with one that works in a completely unrelated niche. Both are proven so the risk is tiny, but the combo feels brand new to the viewer (why AI animation ads are tearing up feeds right now); inventing from scratch is unproven + unproven, i.e. a guess (X 2026-11-02).
 - Brands that aren't going viral are usually posting from one account — the ones blowing up right now have their content spread across hundreds of accounts (X 2026-11-02).
+
+### From public writing (2026-11-04 incremental)
+- Forget influencer deals, paid-ads-only, and posting twice a week from one account: the brands making serious money run both sides — a content machine on the main pages (consistent quality posting so the brand looks established, because people check those pages before buying) and then hand the whole content library to clippers who distribute it across tens of pages for a fraction of ad cost. Quality without distribution stays invisible; distribution without quality spreads garbage (X 2026-11-03).

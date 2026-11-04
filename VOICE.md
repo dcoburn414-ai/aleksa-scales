@@ -257,3 +257,7 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 194. "Most people burn months trying to invent a format from scratch and it flops because unproven + unproven is just a guess" — X — https://x.com/aleksascales/status/2117335433785016633 (2026-11-02)
 195. "The gap between those two is where your next format is hiding" — X — https://x.com/aleksascales/status/2117335433785016633 (2026-11-02)
 196. ""Why is my brand not going viral yet?"" / "Because you're posting from 1 account" — X — https://x.com/aleksascales/status/2117231247063925029 (2026-11-02)
+
+197. "It's almost 2027 and you still don't have a clipping army?" — X — https://x.com/aleksascales/status/2117666112598843666 (2026-11-03)
+198. "Quality with no distribution stays invisible" / "Distribution with no quality spreads garbage" — X — https://x.com/aleksascales/status/2117618550001344979 (2026-11-03)
+199. "Most brands have a dead Instagram and a dead TikTok that make them look small, and people check those before they ever buy" — X — https://x.com/aleksascales/status/2117618550001344979 (2026-11-03)
