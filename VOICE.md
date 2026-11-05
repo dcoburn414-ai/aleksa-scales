@@ -261,3 +261,6 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 197. "It's almost 2027 and you still don't have a clipping army?" — X — https://x.com/aleksascales/status/2117666112598843666 (2026-11-03)
 198. "Quality with no distribution stays invisible" / "Distribution with no quality spreads garbage" — X — https://x.com/aleksascales/status/2117618550001344979 (2026-11-03)
 199. "Most brands have a dead Instagram and a dead TikTok that make them look small, and people check those before they ever buy" — X — https://x.com/aleksascales/status/2117618550001344979 (2026-11-03)
+
+200. "If someone steals your content don't get mad" / "Hire him" / "Make him your personal clipper" / "Now you've got a marketing team that only gets paid when you win" — X — https://x.com/aleksascales/status/2117982950465708343 (2026-11-04)
+201. "I was always against influencer deals" / "Basically corporate gambling with the company's money" — X — https://x.com/aleksascales/status/2118065242584301678 (2026-11-04)

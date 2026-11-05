@@ -255,3 +255,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 
 ### From public writing (2026-11-04 incremental)
 - Forget influencer deals, paid-ads-only, and posting twice a week from one account: the brands making serious money run both sides — a content machine on the main pages (consistent quality posting so the brand looks established, because people check those pages before buying) and then hand the whole content library to clippers who distribute it across tens of pages for a fraction of ad cost. Quality without distribution stays invisible; distribution without quality spreads garbage (X 2026-11-03).
+
+### From public writing (2026-11-05 incremental)
+- If someone steals your content, hire them as a personal clipper: have them post 100 clips of your best videos across 5 accounts while you sleep, and pay them for every view — a marketing team that only gets paid when you win (X 2026-11-04).
+- Influencer deals: was always against them because 99.9% waste budget on one post that likely flops; still frames them as 'corporate gambling with the company's money,' but admits the adrenaline might make them fun (X 2026-11-04).
