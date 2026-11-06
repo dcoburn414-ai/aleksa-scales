@@ -264,3 +264,10 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 
 200. "If someone steals your content don't get mad" / "Hire him" / "Make him your personal clipper" / "Now you've got a marketing team that only gets paid when you win" — X — https://x.com/aleksascales/status/2117982950465708343 (2026-11-04)
 201. "I was always against influencer deals" / "Basically corporate gambling with the company's money" — X — https://x.com/aleksascales/status/2118065242584301678 (2026-11-04)
+
+202. "This is a must read if you want to understand the cheapest way to get attention that exists right now" — X — https://x.com/aleksascales/status/2118419074103246975 (2026-11-05)
+203. "the bottleneck moves instead of disappearing" / "It moves to attention" — X Article "Organic marketing 101" — https://x.com/aleksascales/status/2118395135369060476 (2026-11-05)
+204. "Organic on the other hand compounds. A post or a clip that performs keeps generating views, follows, and reach long after you made it, at zero additional cost" — same
+205. "Organic is free. Winning at it isn't" — same
+206. "Clipping campaigns usually run between $0.10 and $2 CPM. Paid ads in the same markets run $8 to $40+" — same
+207. "One of our recent campaigns did 108 million views at $0.18 CPM" — same

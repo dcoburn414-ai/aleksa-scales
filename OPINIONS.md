@@ -259,3 +259,8 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-11-05 incremental)
 - If someone steals your content, hire them as a personal clipper: have them post 100 clips of your best videos across 5 accounts while you sleep, and pay them for every view — a marketing team that only gets paid when you win (X 2026-11-04).
 - Influencer deals: was always against them because 99.9% waste budget on one post that likely flops; still frames them as 'corporate gambling with the company's money,' but admits the adrenaline might make them fun (X 2026-11-04).
+
+### From public writing (2026-11-06 incremental)
+- When production becomes free/instant for everyone, the bottleneck moves to attention — the real skill in 2026 is quality + distribution; organic sits with the strongest free algorithm push while people fight overpriced paid ads (X Article 2026-11-05).
+- Organic compounds (a post/clip keeps generating views/follows/reach at zero incremental cost); paid is rented; influencer deals are a flat fee for a probabilistic outcome (usually a loss). Clipping CPMs $0.10–$2 vs paid $8–$40+; recent campaign 108M views at $0.18 CPM (X Article 2026-11-05).
+- Organic is free; winning at it isn't — consistency (daily, multi-platform) is the difficulty; content agencies maintain own presence, clipping/distribution agencies multiply reach across accounts (X Article 2026-11-05).
