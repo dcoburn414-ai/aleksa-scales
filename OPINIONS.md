@@ -264,3 +264,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - When production becomes free/instant for everyone, the bottleneck moves to attention — the real skill in 2026 is quality + distribution; organic sits with the strongest free algorithm push while people fight overpriced paid ads (X Article 2026-11-05).
 - Organic compounds (a post/clip keeps generating views/follows/reach at zero incremental cost); paid is rented; influencer deals are a flat fee for a probabilistic outcome (usually a loss). Clipping CPMs $0.10–$2 vs paid $8–$40+; recent campaign 108M views at $0.18 CPM (X Article 2026-11-05).
 - Organic is free; winning at it isn't — consistency (daily, multi-platform) is the difficulty; content agencies maintain own presence, clipping/distribution agencies multiply reach across accounts (X Article 2026-11-05).
+
+### From public writing (2026-11-07 incremental)
+- Organic gets better every day you run it: set up long-form + short-form profiles, post quality daily, amplify with distribution — a machine that automatically grows audience and revenue (X 2026-11-06).
+- Ads can work if done right, but a cold ad click lands on your profile — a dry profile (cheap content, low followers, no organic presence) kills the conversion; organic presence is the backstop for paid (X 2026-11-07).

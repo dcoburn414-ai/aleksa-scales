@@ -271,3 +271,7 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 205. "Organic is free. Winning at it isn't" — same
 206. "Clipping campaigns usually run between $0.10 and $2 CPM. Paid ads in the same markets run $8 to $40+" — same
 207. "One of our recent campaigns did 108 million views at $0.18 CPM" — same
+
+208. "The most powerful thing about organic is it gets better every single day you run it" / "You're building a machine that automatically grows your audience and your revenue" — X — https://x.com/aleksascales/status/2118726994238054439 (2026-11-06)
+209. "Ads can be an amazing channel if you do them right" / "If your profile is dry?" — X — https://x.com/aleksascales/status/2118857714637955074 (2026-11-07)
+210. "You need to understand the organic game if you want to win now and in the upcoming period" — X — https://x.com/aleksascales/status/2118787753248706833 (2026-11-06)
