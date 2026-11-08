@@ -268,3 +268,8 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-11-07 incremental)
 - Organic gets better every day you run it: set up long-form + short-form profiles, post quality daily, amplify with distribution — a machine that automatically grows audience and revenue (X 2026-11-06).
 - Ads can work if done right, but a cold ad click lands on your profile — a dry profile (cheap content, low followers, no organic presence) kills the conversion; organic presence is the backstop for paid (X 2026-11-07).
+
+### From public writing (2026-11-08 incremental)
+- Organic is still the best marketing channel ~10 years after platforms became business tools; AI changes parts of how it works, not whether you need it — not running organic now means you're already behind (X 2026-11-07).
+- Prediction: organic marketers become the most valuable hire in 99% of businesses (X 2026-11-07).
+- Brez Scales as the model organic stack: raw YouTube breakdowns + life vlogs (relatable despite earning more), constant short-form on IG/TikTok, clipping campaign of top-of-funnel talking + lifestyle clips, course sold off the machine, ads amplifying a known figure. Formula: long form for trust, short form for reach, clipping for scale, ads to amplify what already works (X 2026-11-07).

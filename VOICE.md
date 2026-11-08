@@ -275,3 +275,7 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 208. "The most powerful thing about organic is it gets better every single day you run it" / "You're building a machine that automatically grows your audience and your revenue" — X — https://x.com/aleksascales/status/2118726994238054439 (2026-11-06)
 209. "Ads can be an amazing channel if you do them right" / "If your profile is dry?" — X — https://x.com/aleksascales/status/2118857714637955074 (2026-11-07)
 210. "You need to understand the organic game if you want to win now and in the upcoming period" — X — https://x.com/aleksascales/status/2118787753248706833 (2026-11-06)
+
+211. "it's still the best marketing channel that exists" / "If you're not running organic right now you're already behind" — X — https://x.com/aleksascales/status/2119211797685080161 (2026-11-07)
+212. "Prediction: organic marketers are going to be the most valuable hire in 99% of businesses" — X — https://x.com/aleksascales/status/2119148127907365150 (2026-11-07)
+213. "Long form for trust, short form for reach, clipping for scale, ads to amplify what already works" — X — https://x.com/aleksascales/status/2119070949525856724 (2026-11-07)
