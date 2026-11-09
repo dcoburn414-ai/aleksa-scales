@@ -273,3 +273,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Organic is still the best marketing channel ~10 years after platforms became business tools; AI changes parts of how it works, not whether you need it — not running organic now means you're already behind (X 2026-11-07).
 - Prediction: organic marketers become the most valuable hire in 99% of businesses (X 2026-11-07).
 - Brez Scales as the model organic stack: raw YouTube breakdowns + life vlogs (relatable despite earning more), constant short-form on IG/TikTok, clipping campaign of top-of-funnel talking + lifestyle clips, course sold off the machine, ads amplifying a known figure. Formula: long form for trust, short form for reach, clipping for scale, ads to amplify what already works (X 2026-11-07).
+
+### From public writing (2026-11-09 incremental)
+- Selling to broke people works by exposing pain; selling to people with serious money works by showing they are behind — e.g. a competitor already doing huge organic view volume makes doing nothing look small and unserious (X 2026-11-08).
+- Free tip for businesses stuck at ~200 views per video: have an attractive person fronted in the content — the visual hook lands before the words, and a pinned post featuring them keeps people on the page longer (X 2026-11-08).

@@ -279,3 +279,6 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 211. "it's still the best marketing channel that exists" / "If you're not running organic right now you're already behind" — X — https://x.com/aleksascales/status/2119211797685080161 (2026-11-07)
 212. "Prediction: organic marketers are going to be the most valuable hire in 99% of businesses" — X — https://x.com/aleksascales/status/2119148127907365150 (2026-11-07)
 213. "Long form for trust, short form for reach, clipping for scale, ads to amplify what already works" — X — https://x.com/aleksascales/status/2119070949525856724 (2026-11-07)
+
+214. "You can't sell them pain because they don't have any" / "You sell them being behind" — X — https://x.com/aleksascales/status/2119509760932188551 (2026-11-08)
+215. "The visual hook lands before anyone hears a single word" — X — https://x.com/aleksascales/status/2119446343475220765 (2026-11-08)
