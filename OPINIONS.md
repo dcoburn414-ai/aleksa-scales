@@ -277,3 +277,8 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-11-09 incremental)
 - Selling to broke people works by exposing pain; selling to people with serious money works by showing they are behind — e.g. a competitor already doing huge organic view volume makes doing nothing look small and unserious (X 2026-11-08).
 - Free tip for businesses stuck at ~200 views per video: have an attractive person fronted in the content — the visual hook lands before the words, and a pinned post featuring them keeps people on the page longer (X 2026-11-08).
+
+### From public writing (2026-11-10 incremental)
+- The anti-course stigma is lazy: every space has scammers, people got burned, and they blame the whole category; buying from the right person skips months or years of research, and info is among the most profitable models because you sell the same thing a thousand times at no extra cost (X 2026-11-09).
+- Selling info at scale needs a quality personal brand plus distribution: make long-form yourself, cut it and post multiple times daily on main pages, add clippers to multiply reach in their own styles, then turn organic winners into paid ads (X 2026-11-09).
+- On X's native clipping: pick a niche where Premium users live, clip long videos from ~30 source accounts, open on a claim with a number or a disagreement (20–40s), add a take people want to argue with, post 5–10 a day and be first, review weekly; stack paid clipping campaigns on top; bot-published posts get a 'Made with AI' label so post clips yourself (X 2026-11-10).

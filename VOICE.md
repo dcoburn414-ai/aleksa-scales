@@ -282,3 +282,8 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 
 214. "You can't sell them pain because they don't have any" / "You sell them being behind" — X — https://x.com/aleksascales/status/2119509760932188551 (2026-11-08)
 215. "The visual hook lands before anyone hears a single word" — X — https://x.com/aleksascales/status/2119446343475220765 (2026-11-08)
+
+216. "The hate on courses is low IQ thinking" — X — https://x.com/aleksascales/status/2119853526436413891 (2026-11-09)
+217. "They bought from the wrong person and blamed the product" — X — https://x.com/aleksascales/status/2119853526436413891 (2026-11-09)
+218. "Keep that running and you'll never have a traffic problem again" — X — https://x.com/aleksascales/status/2119796903164690649 (2026-11-09)
+219. "your take is what separates you from a repost account that earns nothing" — X — https://x.com/aleksascales/status/2120035265070703006 (2026-11-10)
