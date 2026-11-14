@@ -287,3 +287,21 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 217. "They bought from the wrong person and blamed the product" — X — https://x.com/aleksascales/status/2119853526436413891 (2026-11-09)
 218. "Keep that running and you'll never have a traffic problem again" — X — https://x.com/aleksascales/status/2119796903164690649 (2026-11-09)
 219. "your take is what separates you from a repost account that earns nothing" — X — https://x.com/aleksascales/status/2120035265070703006 (2026-11-10)
+
+220. "At this point the most profitable business model on the internet is joining the account hijacking mafia on Instagram or YouTube as their recovery department and charging creators a fixed monthly "protection fee"" — X — https://x.com/aleksascales/status/2120129179043721638 (2026-11-10)
+221. "You can also join clipping campaigns and find more deals on top of that" — X — https://x.com/aleksascales/status/2120097679866990627 (2026-11-10)
+
+### From public writing (2026-11-12 incremental)
+222. "One of the biggest money opportunities right now is building an AI video generation app" — X — https://x.com/aleksascales/status/2120599692832620657 (2026-11-11)
+223. "99% of those apps have zero distribution" — X — https://x.com/aleksascales/status/2120599692832620657 (2026-11-11)
+224. "You can double your close rate without touching your offer or your price" — X — https://x.com/aleksascales/status/2120523944323060201 (2026-11-11)
+225. "The mistake almost everyone makes is running cold traffic straight to a call" — X — https://x.com/aleksascales/status/2120523944323060201 (2026-11-11)
+
+### From public writing (2026-11-13 incremental)
+226. "When you find a winning piece of content, the thing worth transferring is the messaging" — X — https://x.com/aleksascales/status/2120881046732337527 (2026-11-12)
+227. "Copy the format without the message and you get nothing" — X — https://x.com/aleksascales/status/2120881046732337527 (2026-11-12)
+
+228. "You have to grow in EVERY single aspect of life if you want to truly make it" — X — https://x.com/aleksascales/status/2121487415315484981 (2026-11-14)
+229. "Most course sellers who test clippers end up with millions of views and almost no sales" — X — https://x.com/aleksascales/status/2121298070222536931 (2026-11-13)
+230. "Luke Belmar is the perfect example of how not to run a clipping campaign" — X — https://x.com/aleksascales/status/2121231355195384297 (2026-11-13)
+231. "It wasn't a failed campaign" — X — https://x.com/aleksascales/status/2121280993390645720 (2026-11-13)

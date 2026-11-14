@@ -282,3 +282,14 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - The anti-course stigma is lazy: every space has scammers, people got burned, and they blame the whole category; buying from the right person skips months or years of research, and info is among the most profitable models because you sell the same thing a thousand times at no extra cost (X 2026-11-09).
 - Selling info at scale needs a quality personal brand plus distribution: make long-form yourself, cut it and post multiple times daily on main pages, add clippers to multiply reach in their own styles, then turn organic winners into paid ads (X 2026-11-09).
 - On X's native clipping: pick a niche where Premium users live, clip long videos from ~30 source accounts, open on a claim with a number or a disagreement (20–40s), add a take people want to argue with, post 5–10 a day and be first, review weekly; stack paid clipping campaigns on top; bot-published posts get a 'Made with AI' label so post clips yourself (X 2026-11-10).
+
+### From public writing (2026-11-12 incremental)
+- An AI video generation app is a big opportunity because 99% of the existing apps have zero distribution: the winners are the ones who can get attention, not the ones who build the product (X 2026-11-11).
+- You can double close rate without touching offer or price by changing how warm the lead is on arrival; cold traffic straight to a call is the common mistake (X 2026-11-11).
+
+### From public writing (2026-11-13 incremental)
+- Clone the message of a winning clip (pain/desire, failed alternatives, awareness level), not the edit, transition or trending sound; put nearly all focus on the first few seconds (X 2026-11-12, https://x.com/aleksascales/status/2120881046732337527).
+
+### From public writing (2026-11-14 incremental)
+- Getting rich does not fix a life by itself; you have to grow in every aspect (health, social skills) to feel satisfied (X 2026-11-14).
+- Course sellers who hand content to clippers without a plan get millions of views and almost no sales; the campaign has to be built to sell, and the clips that pull views can be the ones that make the seller look bad (X 2026-11-13, on Luke Belmar; he disputes replies calling it a success).
