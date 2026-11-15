@@ -293,3 +293,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-11-14 incremental)
 - Getting rich does not fix a life by itself; you have to grow in every aspect (health, social skills) to feel satisfied (X 2026-11-14).
 - Course sellers who hand content to clippers without a plan get millions of views and almost no sales; the campaign has to be built to sell, and the clips that pull views can be the ones that make the seller look bad (X 2026-11-13, on Luke Belmar; he disputes replies calling it a success).
+
+### From public writing (2026-11-15 incremental)
+- Clipping playbook: pay creators to cut long form and post from their own warmed-up accounts; borrow formats already pulling views in the niche and unrelated ones; test ten versions of each winner; review every clip within 24 hours; keep the network engaged with bounties and calls (X 2026-11-14 thread, https://x.com/aleksascales/status/2121603305738764580).
+- Kickboxing is a recommended habit: it clears the mind, builds discipline, and gives a useful real-life skill (X 2026-11-14).

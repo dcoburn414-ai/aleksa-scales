@@ -305,3 +305,8 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 229. "Most course sellers who test clippers end up with millions of views and almost no sales" — X — https://x.com/aleksascales/status/2121298070222536931 (2026-11-13)
 230. "Luke Belmar is the perfect example of how not to run a clipping campaign" — X — https://x.com/aleksascales/status/2121231355195384297 (2026-11-13)
 231. "It wasn't a failed campaign" — X — https://x.com/aleksascales/status/2121280993390645720 (2026-11-13)
+
+### From public writing (2026-11-15 incremental)
+232. "We just helped a 10 figure company pull over a billion views in the past few weeks" — X — https://x.com/aleksascales/status/2121603305738764580 (2026-11-14)
+233. "a format crushing it somewhere else usually hasn't been touched in theirs yet" — X — https://x.com/aleksascales/status/2121603306447622627 (2026-11-14)
+234. "I've been doing kickboxing for the past few months and it's one of the best things I've started doing" — X — https://x.com/aleksascales/status/2121703717267538164 (2026-11-14)
