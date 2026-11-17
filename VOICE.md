@@ -310,3 +310,7 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 232. "We just helped a 10 figure company pull over a billion views in the past few weeks" — X — https://x.com/aleksascales/status/2121603305738764580 (2026-11-14)
 233. "a format crushing it somewhere else usually hasn't been touched in theirs yet" — X — https://x.com/aleksascales/status/2121603306447622627 (2026-11-14)
 234. "I've been doing kickboxing for the past few months and it's one of the best things I've started doing" — X — https://x.com/aleksascales/status/2121703717267538164 (2026-11-14)
+
+235. "Nobody without money watches that. It filters itself in the first two seconds" / "Targeted views are everything" — X — https://x.com/aleksascales/status/2121955879150838160 (2026-11-15)
+236. "GTA 6 is about to create so many millionaires" — X — https://x.com/aleksascales/status/2122402320587915685 (2026-11-16)
+237. "The only answer that makes sense for this massive wave of YouTube channel bans is Jake Paul getting rid of the competition" — X — https://x.com/aleksascales/status/2122061795473142247 (2026-11-15)

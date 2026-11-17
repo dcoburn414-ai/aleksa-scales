@@ -297,3 +297,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-11-15 incremental)
 - Clipping playbook: pay creators to cut long form and post from their own warmed-up accounts; borrow formats already pulling views in the niche and unrelated ones; test ten versions of each winner; review every clip within 24 hours; keep the network engaged with bounties and calls (X 2026-11-14 thread, https://x.com/aleksascales/status/2121603305738764580).
 - Kickboxing is a recommended habit: it clears the mind, builds discipline, and gives a useful real-life skill (X 2026-11-14).
+
+### From public writing (2026-11-17 incremental)
+- Targeted views beat big views: business-specific short-form (cost, who it's for, how it works) filters to buyers, so 500-1000 views can close deals while 100k on trending audio cannot close a $50 offer (X 2026-11-15).
+- Pitching GTA VI clipping as a money opportunity; says he has paid over $500k to clippers (X article 2026-11-16).
