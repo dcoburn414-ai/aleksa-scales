@@ -301,3 +301,10 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-11-17 incremental)
 - Targeted views beat big views: business-specific short-form (cost, who it's for, how it works) filters to buyers, so 500-1000 views can close deals while 100k on trending audio cannot close a $50 offer (X 2026-11-15).
 - Pitching GTA VI clipping as a money opportunity; says he has paid over $500k to clippers (X article 2026-11-16).
+
+### From public writing (2026-11-24 incremental)
+- Clipping 'the old way' is dead: platforms shut the door on raw reposts, so a five-person campaign no longer does what it did two years ago; the work now is formats, accounts and messaging (X 2026-11-18, https://x.com/aleksascales/status/2122964274112815554).
+- Follower count means nothing for organic short form; accounts under 100 followers can pull a million views on a first post if it is a format people already proved they want (X 2026-11-21).
+- The hook decides 300 views vs 3M; says his clippers have posted 100,000+ clips and shares 30 hooks (X 2026-11-23). Also pitches clipping as a way to scale info offers whose coaches have hundreds of hours of unused content (X 2026-11-23).
+- Keeps pushing GTA VI clipping (clip streamers, one-phone multi-account setups, B2B brands should ride it); says the first hours after release are the easiest money of the year (X 2026-11-18/19).
+- Says the Balkans is the most underpriced talent pool in the world (X 2026-11-24).

@@ -314,3 +314,11 @@ Young clipping-agency operator voice: blunt, high-volume, slightly cocky, proof-
 235. "Nobody without money watches that. It filters itself in the first two seconds" / "Targeted views are everything" — X — https://x.com/aleksascales/status/2121955879150838160 (2026-11-15)
 236. "GTA 6 is about to create so many millionaires" — X — https://x.com/aleksascales/status/2122402320587915685 (2026-11-16)
 237. "The only answer that makes sense for this massive wave of YouTube channel bans is Jake Paul getting rid of the competition" — X — https://x.com/aleksascales/status/2122061795473142247 (2026-11-15)
+
+### From public writing (2026-11-24 incremental)
+238. "Not being able to go viral from zero is a skill issue" — X — https://x.com/aleksascales/status/2124174497917939767 (2026-11-21)
+239. "Clipping is dead" / "At least the old way of doing it" — X — https://x.com/aleksascales/status/2122964274112815554 (2026-11-18)
+240. "The hook decides whether your clip gets 300 views or 3M" — X — https://x.com/aleksascales/status/2124842147677385120 (2026-11-23)
+241. "If you're not clipping GTA streamers right now you're leaving the easiest money of the year on the table" — X — https://x.com/aleksascales/status/2123147480670044454 (2026-11-18)
+242. "Courses before the courses" — X — https://x.com/aleksascales/status/2124859757517521215 (2026-11-23)
+243. "the Balkans is the most underpriced talent pool in the world" — X — https://x.com/aleksascales/status/2125144137057853697 (2026-11-24)
